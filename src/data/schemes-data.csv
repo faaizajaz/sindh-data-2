@@ -1,0 +1,307 @@
+smp,district,taluka,uc,rv,village,latitude,longitude,scheme_type,scheme_status,scheme_start,scheme_end,total_hh_village,percent_participating_hh,m_workers,f_workers,total_workers,housing_m_workers,housing_f_workers,housing_total_workers,vul_male,vul_female,vul_total,payment
+SRSO,Ghotki,Khan Garh,Lohi,Lohi,Waloo Dari,27.7842179,69.3851836,Earth filling of earthen Road and street,Ongoing,21/09/23,16/10/23,131,54.00%,36,35,71,0,0,0,18,12,30,0
+SRSO,Ghotki,Ghotki,Ali Bagh,Ali Bagh,Bahadur Soomro,28.011458,69.4124925,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,132,66.00%,44,44,87,0,0,0,22,15,37,0
+SRSO,Ghotki,Ghotki,Umer Daho,Umer Daho,Pandhi Faqeer,28.0781145,69.4300861,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,131,18.00%,12,12,24,0,0,0,6,4,10,0
+SRSO,Ghotki,Khan Garh,Lohi,Lohi,Abdul Rehman,27.443,69.213,Earth filling of earthen Road and street,Ongoing,30/09/23,25/10/23,52,98.00%,26,26,51,0,0,0,13,9,22,0
+SRSO,Jacobabad,Thull,Bachro,Bachro,Rozi Khan Banglani,28.263809,68.6880178,Earth filling of earthen Road and street,Ongoing,09/15/23,10/12/23,85,35.00%,15,15,30,0,0,0,8,5,13,0
+SRSO,Jacobabad,Thull,Baqapur,Baqapur,Abdul Rehman Abro,28.3451183,68.4122481,Earth filling of earthen Road and street,Ongoing,09/26/23,10/20/23,50,40.00%,10,10,20,0,0,0,5,3,8,0
+SRSO,Jacobabad,Thull,Sher Wah,Sher Wah,Muhammad Hussain Sarki,28.2662352,68.8036505,Earth filling of earthen Road and street,Ongoing,09/28/23,10/22/23,50,62.00%,16,15,31,0,0,0,8,5,13,0
+SRSO,Jacobabad,Thull,Bahadurpur,Bahadurpur,Amir Khan Khoso,28.298934,68.6290011,Earth filling of earthen Road and street,Ongoing,09/28/23,10/22/23,110,25.00%,14,13,27,0,0,0,7,5,12,0
+SRSO,Jacobabad,Thull,Sher Wah,Sher Wah,Jalal din Solangi,28.2255509,68.8362038,Earth filling of earthen Road and street,Ongoing,10/02/23,10/27/23,116,41.00%,24,24,48,0,0,0,12,8,20,0
+SRSO,Jacobabad,Thull,Bachro,Bachro,Hairdin Katohar,28.3086626,68.6799017,Earth filling of earthen Road and street,Ongoing,10/02/23,10/27/23,80,43.00%,17,17,34,0,0,0,9,6,15,0
+SRSO,Kambher Shahdadkot,Warah,Warah,Warah,Ali Hyder Gaincho,27.43591,67.8055,Earth filling of earthen Road and street,Ongoing,09/15/23,10/09/23,96,7.00%,4,3,7,0,0,0,2,1,3,0
+SRSO,Kambher Shahdadkot,Kamber,Koor Kamal,Koor Kamal,Ilyas Chandio,27.675823,67.818913,Earth filling of earthen Road and street,Ongoing,09/16/23,10/10/23,42,98.00%,19,22,41,0,0,0,10,7,17,0
+SRSO,Kambher Shahdadkot,Warah,Warah,Warah,Khair Muhammad Solangi,27.46118,67.87843,Earth filling of earthen Road and street,Ongoing,09/15/23,10/09/23,22,36.00%,4,4,8,0,0,0,2,1,3,0
+SRSO,Kambher Shahdadkot,Warah,Junani,Junani,Ramzan Gadhi,27.43098,67.74399,Earth filling of earthen Road and street,Ongoing,09/14/23,10/08/23,97,34.00%,25,8,33,0,0,0,8,6,14,0
+SRSO,Kambher Shahdadkot,Shahdadkot,Jamali,Jamali,Tariqabad,27.89192,67.89511,Earth filling of earthen Road and street,Ongoing,09/16/23,10/10/23,60,98.00%,35,24,59,0,0,0,15,10,25,0
+SRSO,Kambher Shahdadkot,Shahdadkot,Jamali,Jamali,Rasool Bux Kutrio,27.93037,67.88949,Earth filling of earthen Road and street,Ongoing,09/21/23,10/15/23,36,83.00%,15,15,30,0,0,0,8,5,13,0
+SRSO,Kambher Shahdadkot,Shahdadkot,Jamali,Jamali,Rehmat Mugheri,27.92099,67.88316,Earth filling of earthen Road and street,Ongoing,09/21/23,10/15/23,39,67.00%,17,9,26,0,0,0,7,4,11,0
+SRSO,Kambher Shahdadkot,Kamber,Koor Kamal,Waraso,Abdul wahid chandio,27.674703,67.824133,Earth filling of earthen Road and street,Ongoing,09/22/23,10/16/23,75,96.00%,42,30,72,0,0,0,18,12,30,0
+SRSO,Kambher Shahdadkot,Kamber,Koor Kamal,Waraso,Band Jagir,27.677718,67.807617,Earth filling of earthen Road and street,Ongoing,09/23/23,10/17/23,65,95.00%,28,34,62,0,0,0,16,11,27,0
+SRSO,Kambher Shahdadkot,Warah,Junani,Garhi Makro,Noor Muhammad Brohi,27.36818,67.71608,Earth filling of earthen Road and street,Ongoing,09/25/23,10/20/23,67,88.00%,38,21,59,0,0,0,15,10,25,0
+SRSO,Kambher Shahdadkot,Kambar,Koor Kamal,Koor Kamal,Mian Ali Sher Chandio,27.65723,67.81415,Earth filling of earthen Road and street,Ongoing,09/21/23,10/15/23,70,89.00%,33,29,62,0,0,0,16,11,27,0
+SRSO,Kambher Shahdadkot,Warah,Mirpur,Warah,Allah Bux choliyani,27.78936,67.56767,Earth filling of earthen Road and street,Ongoing,09/25/23,10/20/23,81,49.00%,30,10,40,0,0,0,10,7,17,0
+SRSO,Kambher Shahdadkot,Kamber,Koor Kamal,Kario Murad,Hyder Mari,27.650462,67.832213,Earth filling of earthen Road and street,Ongoing,09/26/23,10/20/23,82,99.00%,51,30,81,0,0,0,20,14,34,0
+SRSO,Kambher Shahdadkot,Kamber,Koor Kamal,Waraso,Arz Muhammad.,27.67195,67.79076,Earth filling of earthen Road and street,Ongoing,09/26/23,10/20/23,51,98.00%,28,22,50,0,0,0,13,9,22,0
+SRSO,Kambher Shahdadkot,Qubo Saeed Khan,Bagodaro,Bagodaro,Muhammad Siddique Khoso,27.76786,67.70302,Earth filling of earthen Road and street,Ongoing,09/26/23,10/20/23,54,56.00%,13,17,30,0,0,0,8,5,13,0
+SRSO,Kambher Shahdadkot,Qubo Saeed Khan,Bagodaro,seer Magsi,Khalifo Khan Buriro,27.73654,67.68288,Earth filling of earthen Road and street,Ongoing,09/26/23,10/20/23,198,99.00%,97,100,197,0,0,0,49,33,82,0
+SRSO,Kambher Shahdadkot,Kamber,Koor kamal,Waraso,Shafi Muhammad Chandio,27.67299,67.79112,Earth filling of earthen Road and street,Ongoing,09/27/23,10/21/23,52,98.00%,30,21,51,0,0,0,13,9,22,0
+SRSO,Kambher Shahdadkot,Qubo Saeed Khan,Hazarwah,Kot shah baig,Tilan Khan Khoso,27.90733,67.7561,Earth filling of earthen Road and street,Ongoing,09/27/23,10/21/23,62,81.00%,26,24,50,0,0,0,13,9,22,0
+SRSO,Kambher Shahdadkot,Warah,Khandu,Khandu,Gorgage,27.53725,67.75753,Earth filling of earthen Road and street,Ongoing,09/26/23,10/20/23,185,41.00%,59,17,76,0,0,0,19,13,32,0
+SRSO,Kambher Shahdadkot,Warah,Lalu rank,Lalu rank,Misri juj,27.49813,67.90491,Earth filling of earthen Road and street,Ongoing,09/27/23,10/21/23,111,62.00%,42,27,69,0,0,0,17,12,29,0
+SRSO,Kambher Shahdadkot,Warah,Warah,warah,Meer Gadhi,27.51637,67.77594,Earth filling of earthen Road and street,Ongoing,10/02/23,10/26/23,56,77.00%,29,14,43,0,0,0,11,7,18,0
+SRSO,Kambher Shahdadkot,Shahdadkot,Jamali,Noor Pur,Juma Khan Magsi,27.87728,67.90568,Earth filling of earthen Road and street,Ongoing,09/28/23,10/22/23,52,98.00%,32,19,51,0,0,0,13,9,22,0
+SRSO,Kambher Shahdadkot,Kamber,koor kamal,kor hassan,Ilyas Chandio-2,27.67805,67.82627,Earth filling of earthen Road and street,Ongoing,10/02/23,10/26/23,56,63.00%,20,15,35,0,0,0,9,6,15,0
+SRSO,Kambher Shahdadkot,Warah,Warah,Warah,Yar Muhammad Brohi,27.46354,68.19003,Earth filling of earthen Road and street,Ongoing,09/30/23,10/24/23,95,97.00%,62,30,92,0,0,0,23,16,39,0
+SRSO,Kambher Shahdadkot,Kamber,Koor kamal,Waraso,Rasis Yar Muhammad,27.6566,67.819412,Earth filling of earthen Road and street,Ongoing,10/03/23,10/27/23,120,80.00%,61,35,96,0,0,0,24,16,40,0
+SRSO,Kambher Shahdadkot,Shahdadkot,Jamali,Bhurgari,Shebazi Chandio,27.94205,67.96696,Earth filling of earthen Road and street,Ongoing,10/03/23,10/27/23,45,98.00%,15,29,44,0,0,0,11,7,18,0
+SRSO,Kambher Shahdadkot,Shahdadkot,Jamali,Bhurgari,Pahar Khan Khoso,27.9423,67.97205,Earth filling of earthen Road and street,Ongoing,10/03/23,10/27/23,32,75.00%,15,9,24,0,0,0,6,4,10,0
+SRSO,Kambher Shahdadkot,Shahdadkot,Leghari,Sanjhar Bhatti,Bhooral Khan Chandio,27.94528,68.00139,Earth filling of earthen Road and street,Ongoing,10/03/23,10/27/23,34,97.00%,17,16,33,0,0,0,8,6,14,0
+SRSO,Kambher Shahdadkot,Kamber,khabar,Koor Ismail,Sher Muhammad Gadhi,27.701833,67.80697,Earth filling of earthen Road and street,Ongoing,09/20/23,10/14/23,87,71.00%,33,29,62,0,0,0,16,11,27,0
+SRSO,Khairpur,Kot Diji,Fatehpur,Fatehpur,Mithal Ujjan,27.397087,68.669034,Earth filling of earthen Road and street,Ongoing,09/06/23,10/01/23,300,6.00%,10,7,17,0,0,0,4,3,7,0
+SRSO,Khairpur,Faiz Ganj,Akri,Akri,Dhani Bux Gaho,26.929819,68.383315,Earth filling of earthen Road and street,Ongoing,09/06/23,10/01/23,77,91.00%,34,36,70,0,0,0,15,15,30,0
+SRSO,Khairpur,Sobhodero,Merak,Merak,Haji Jaral,27.244665,68.377116,Earth filling of earthen Road and street,Ongoing,09/06/23,10/01/23,350,18.00%,37,27,64,0,0,0,16,11,27,0
+SRSO,Khairpur,Kingri,Drib Mehar Shah,Drib Mehar Shah,Arbab Ujjan,27.41816667,68.55386111,Earth filling of earthen Road and street,Ongoing,09/06/23,10/01/23,72,32.00%,12,11,23,0,0,0,6,4,10,0
+SRSO,Khairpur,Faiz Ganj,Akri,Akri,Gazi Khan Shar,26.962248,68.401523,Earth filling of earthen Road and street,Ongoing,09/13/23,10/09/23,80,96.00%,40,37,77,0,0,0,19,13,32,0
+SRSO,Khairpur,Faiz Ganj,Akri,Akri,Sachal Shar,26.962268,68.410619,Earth filling of earthen Road and street,Ongoing,09/13/23,10/09/23,73,97.00%,36,35,71,0,0,0,18,12,30,0
+SRSO,Khairpur,Kingri,Drib Mehar Shah,Drib Mehar Shah,Arbab Channa,27.4535,68.52919444,Earth filling of earthen Road and street,Ongoing,09/14/23,10/10/23,156,14.00%,15,7,22,0,0,0,6,4,10,0
+SRSO,Khairpur,Kingri,Drib Mehar Shah,Drib Mehar Shah,Arbab Phulpoto,27.44216667,68.55336389,Earth filling of earthen Road and street,Ongoing,09/21/23,10/15/23,35,86.00%,22,8,30,0,0,0,8,5,13,0
+SRSO,Khairpur,Khairpur,Sobhodero,Sobhodero,Meerak,27.257283,68.350153,Earth filling of earthen Road and street,Ongoing,09/27/23,10/21/23,250,18.00%,22,22,44,0,0,0,11,7,18,0
+SRSO,Larkana,Dokri,Tatri,Tatri,Aalmani,27.2873073,68.0598766,Earth filling of earthen Road and street,Ongoing,09/18/23,10/12/23,137,6.00%,5,3,8,0,0,0,2,1,3,0
+SRSO,Larkana,Dokri,Tatri,Tatri,Ali Bux Chandio,27.18378,68.01327,Earth filling of earthen Road and street,Ongoing,09/18/23,10/12/23,77,34.00%,14,12,26,0,0,0,7,4,11,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Wagan,Wagan,Nawab Khan Laghari,26.776481,68.06447,Earth filling of earthen Road and street,Ongoing,09/02/23,09/26/23,15,80.00%,5,7,12,0,0,0,4,2,6,0
+SRSO,Naushahro Feroze,Mehrabpur,Jiando Rajper,Jiando Rajper,Muhammad Ishaque Burdi,27.069343,68.44412,Earth filling of earthen Road and street,Ongoing,09/09/23,10/04/23,100,47.00%,25,22,47,0,0,0,12,8,20,0
+SRSO,Naushahro Feroze,Mehrabpur,Jiando Rajper,Jiando Rajper,Saban Rajper,27.063894,68.439699,Earth filling of earthen Road and street,Ongoing,09/16/23,10/12/23,135,17.00%,15,8,23,0,0,0,6,4,10,0
+SRSO,Naushahro Feroze,Mehrabpur,Natho Rajper,Natho Rajper,Shafi Muhammad Jatt,27.048951,68.450896,Earth filling of earthen Road and street,Ongoing,09/16/23,10/12/23,45,71.00%,16,16,32,0,0,0,8,5,13,0
+SRSO,Naushahro Feroze,Moro,Manhai,Manhai,Allah Warayo Mobejo,26.736871,68.086593,Earth filling of earthen Road and street,Ongoing,09/16/23,10/12/23,31,48.00%,10,5,15,0,0,0,4,3,7,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Wagan,Wagan,Dodo Khan Khoso,26.765455,68.023699,Earth filling of earthen Road and street,Ongoing,09/15/23,10/12/23,25,96.00%,12,12,24,0,0,0,6,4,10,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Wagan,Wagan,Kamal Khan Chandio,26.796967,68.069639,Earth filling of earthen Road and street,Ongoing,09/23/23,10/17/23,55,65.00%,17,19,36,0,0,0,9,6,15,0
+SRSO,Naushahro Feroze,Mehrabpur,Mehar Haji,Mehar Haji,Abdullah Lashari,26.959036,68.440348,Earth filling of earthen Road and street,Ongoing,09/25/23,10/17/23,147,44.00%,36,28,64,0,0,0,16,11,27,0
+SRSO,Naushahro Feroze,Mehrabpur,Mehar Haji,Mehar Haji,Dilshad Lashari,26.960098,68.435297,Earth filling of earthen Road and street,Ongoing,09/25/23,10/17/23,50,56.00%,19,9,28,0,0,0,7,5,12,0
+SRSO,Naushahro Feroze,Mehrabpur,Jiando Rajper,Jiando Rajper,Qadir Bux Burdi,27.06482,68.443911,Earth filling of earthen Road and street,Ongoing,09/23/23,10/17/23,150,45.00%,34,34,68,0,0,0,17,12,29,0
+SRSO,Naushahro Feroze,Mehrabpur,Jiando Rajper,Jiando Rajper,Haji Rano Khan Majidano,27.044837,68.441062,Earth filling of earthen Road and street,Ongoing,09/26/23,10/20/23,89,94.00%,42,42,84,0,0,0,21,14,35,0
+SRSO,Naushahro Feroze,Mehrabpur,Jiando Rajper,Jiando Rajper,Raza Hussain Rajper,27.07822,68.419246,Earth filling of earthen Road and street,Ongoing,09/27/23,10/21/23,62,97.00%,30,30,60,0,0,0,15,10,25,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Wagan,Wagan,Pir Jaffar Shah,26.795215,68.07694,Earth filling of earthen Road and street,Ongoing,09/26/23,10/20/23,80,71.00%,28,29,57,0,0,0,14,10,24,0
+SRSO,Naushahro Feroze,Mehrabpur,Jiando Rajper,Jiando Rajper,Ali Muhammad Watoo,27.05194,68.452688,Earth filling of earthen Road and street,Ongoing,09/26/23,10/20/23,38,97.00%,22,15,37,0,0,0,9,6,15,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Wagan,Wagan,Full Khaskhelli,26.780006,68.036748,Earth filling of earthen Road and street,Ongoing,09/29/23,10/24/23,72,99.00%,34,37,71,0,0,0,18,12,30,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Wagan,Wagan,Allah Rakhiyo,26.781087,68.032917,Earth filling of earthen Road and street,Ongoing,09/30/23,10/25/23,41,98.00%,20,20,40,0,0,0,10,7,17,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Wagan,Wagan,Muhammad Eiden Khaskhelli,26.7810856,68.0329679,Earth filling of earthen Road and street,Ongoing,10/01/23,10/26/23,20,90.00%,9,9,18,0,0,0,5,3,8,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Jiando Rajper,Jiando Rajper,Ghulam Hussain Rajper,27.053656,68.428877,Earth filling of earthen Road and street,Ongoing,09/29/23,10/24/23,25,32.00%,4,4,8,0,0,0,2,1,3,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Jiando Rajper,Jiando Rajper,Illahi Bux,27.06272,68.45224,Earth filling of earthen Road and street,Ongoing,09/29/23,10/24/23,20,75.00%,8,7,15,0,0,0,4,3,7,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Jiando Rajper,Jiando Rajper,Ali Gul Burdi,27.049297,68.416789,Earth filling of earthen Road and street,Ongoing,09/29/23,10/24/23,40,63.00%,12,13,25,0,0,0,6,4,10,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Jiando Rajper,Jiando Rajper,Lal Bux Burdi,27.042545,68.423757,Earth filling of earthen Road and street,Ongoing,09/30/23,10/25/23,30,67.00%,10,10,20,0,0,0,5,3,8,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Channar,Channar,Muhammad Saleh Kalhoro,27.0789699,68.1696766,Earth filling of earthen Road and street,Ongoing,09/30/23,10/25/23,25,44.00%,6,5,11,0,0,0,3,2,5,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Jiando Rajper,Jiando Rajper,Allah Dad Rajper,27.072868,68.448823,Earth filling of earthen Road and street,Ongoing,10/02/23,10/27/23,35,97.00%,17,17,34,0,0,0,9,6,15,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Soomar Channar,Soomar Channar,Salehpur Old,27.063845,68.1565916,Earth filling of earthen Road and street,Ongoing,10/02/23,10/27/23,150,3.00%,3,2,5,0,0,0,1,1,2,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Channar,Channar,Salehpur New,27.0646316,68.1601766,Earth filling of earthen Road and street,Ongoing,10/02/23,10/27/23,150,19.00%,15,14,29,0,0,0,7,5,12,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Channar,Channar,Allah Ditto Kalhoro,27.0789699,68.1676399,Earth filling of earthen Road and street,Ongoing,10/02/23,10/27/23,40,50.00%,12,8,20,0,0,0,5,3,8,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Waggan,Waggan,Full Khaskhelli-2,26.780006,68.036748,Earth filling of earthen Road and street,Ongoing,10/02/23,10/27/23,10,80.00%,5,3,8,0,0,0,2,1,3,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Waggan,Waggan,Noor Muhammad Burdi,26.769143,68.024993,Earth filling of earthen Road and street,Ongoing,10/02/23,10/27/23,35,60.00%,11,10,21,0,0,0,5,4,9,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Jiando Rajper,Jiando Rajper,Raza Burdi,27.06447,68.4421,Earth filling of earthen Road and street,Ongoing,10/03/23,10/28/23,60,43.00%,13,13,26,0,0,0,7,4,11,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Jiando Rajper,Jiando Rajper,Nazeer Hussain Rajper,27.064523,68.444787,Earth filling of earthen Road and street,Ongoing,10/03/23,10/28/23,20,60.00%,6,6,12,0,0,0,3,2,5,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Jiando Rajper,Jiando Rajper,Muhammad Yaseen burdi,27.066831,68.442073,Earth filling of earthen Road and street,Ongoing,10/03/23,10/28/23,40,48.00%,9,10,19,0,0,0,5,3,8,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Waggan,Waggan,Allah Bux Khaskhelli,26.770705,68.025271,Earth filling of earthen Road and street,Ongoing,10/03/23,10/28/23,32,69.00%,11,11,22,0,0,0,6,4,10,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Waggan,Waggan,Muhammad Safar Soomro,26.775706,68.025676,Earth filling of earthen Road and street,Ongoing,10/03/23,10/28/23,100,34.00%,19,15,34,0,0,0,9,6,15,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Jiando Rajper,Jiando Rajper,Muhammad Bux Burdi,27.050906,68.422728,Earth filling of earthen Road and street,Ongoing,10/02/23,10/27/23,40,38.00%,8,7,15,0,0,0,4,3,7,0
+SRSO,Sanghar,Sanghar,Kot Nawab,Kot Nawab,Muhammad Alam Lander,26.07166,69.02255,Earth filling of earthen Road and street,Ongoing,08/28/23,09/21/23,100,50.00%,17,33,50,0,0,0,14,9,23,0
+SRSO,Sanghar,Sanghar,Kot Nawab,Kot Nawab,Chanesar Jamali,26.00511,69.06352,Earth filling of earthen Road and street,Ongoing,09/12/23,10/07/23,84,46.00%,18,21,39,0,0,0,10,7,17,0
+SRSO,Sanghar,Sinjhoro,Abbasabad,Abbasabad,Allah Bachayo Rind,25.9055,68.83974,Earth filling of earthen Road and street,Ongoing,09/11/23,10/07/23,183,17.00%,15,16,31,0,0,0,8,5,13,0
+SRSO,Sanghar,Khipro,Hathongo,Hathongo,Muhammad Ali Shar,25.79931,69.43267,Earth filling of earthen Road and street,Ongoing,09/14/23,10/11/23,55,98.00%,25,29,54,0,0,0,14,9,23,0
+SRSO,Sanghar,Sinjhoro,Abbasabad,Abbasabad,Noor Muhammad Shah,25.902128,68.826623,Earth filling of earthen Road and street,Ongoing,09/11/23,10/10/23,150,34.00%,25,26,51,0,0,0,13,9,22,0
+SRSO,Sanghar,Khipro,Hathongo,Hathongo,Qadir Bux Lashari,25.81897,69.4198,Earth filling of earthen Road and street,Ongoing,09/12/23,10/11/23,73,62.00%,20,25,45,0,0,0,11,8,19,0
+SRSO,Sanghar,Khipro,Hathongo,Hathongo,Qadir Bux Shar,25.78576,69.444764,Earth filling of earthen Road and street,Ongoing,09/14/23,10/11/23,170,22.00%,9,29,38,0,0,0,10,6,16,0
+SRSO,Sanghar,Khipro,Hafiz Rajjar,Hafiz Rajjar,Abdullah Samejo,25.75522,69.37387,Earth filling of earthen Road and street,Ongoing,09/24/23,11/18/23,96,97.00%,45,48,93,0,0,0,23,16,39,0
+SRSO,Sanghar,Khipro,Hafiz Rajjar,Hafiz Rajjar,Sarfraz Rajjar,25.78574,63.37836,Earth filling of earthen Road and street,Ongoing,09/25/23,10/19/23,241,78.00%,76,111,187,0,0,0,47,32,79,0
+SRSO,Sanghar,Khipro,Hathango,Hathango,Abdul Waheed Lashari,25.81603,69.42678,Earth filling of earthen Road and street,Ongoing,09/22/23,10/19/23,73,73.00%,25,28,53,0,0,0,13,9,22,0
+SRSO,Sanghar,Sanghar,Hatongo,Hatongo,Qurban Ali Shah,25.82744,69.42307,Earth filling of earthen Road and street,Ongoing,09/23/23,10/18/23,60,93.00%,18,38,56,0,0,0,14,10,24,0
+SRSO,Sanghar,Sanghar,Abbas abad,Abbas abad,Allah Juriyo Khaskhelli,25.908211,68.826488,Earth filling of earthen Road and street,Ongoing,09/26/23,10/21/23,104,33.00%,17,17,34,0,0,0,9,6,15,0
+SRSO,Sanghar,Sanghar,Hatongo,Hatongo,Haji Jani Chaniyo,25.81814,69.394934,Earth filling of earthen Road and street,Ongoing,09/26/23,10/21/23,61,77.00%,28,19,47,0,0,0,12,8,20,0
+SRSO,Sanghar,Sanghar,Hathongo,Hathongo,Nale Mitho Chaniyo,25.81273,69.40681,Earth filling of earthen Road and street,Ongoing,09/26/23,10/21/23,15,93.00%,8,6,14,0,0,0,4,2,6,0
+SRSO,Sanghar,Sanghar,Hafiz Rajjar,Hafiz Rajjar,Khani Rajjar,25.76264,69.35519,Earth filling of earthen Road and street,Ongoing,09/26/23,10/21/23,209,33.00%,36,33,69,0,0,0,17,12,29,0
+SRSO,Sanghar,Sanghar,Hafiz Rajjar,Hafiz Rajjar,Nawaz Rajjar,25.77921,69.36647,Earth filling of earthen Road and street,Ongoing,09/26/23,10/21/23,43,98.00%,22,20,42,0,0,0,11,7,18,0
+SRSO,Sanghar,Sanghar,Abbas abad,Abbas abad,Dhani Perto Wassan,25.961728,68.862953,Earth filling of earthen Road and street,Ongoing,09/27/23,10/22/23,116,15.00%,6,11,17,0,0,0,4,3,7,0
+SRSO,Sanghar,Sanghar,Abbas abad,Abbas abad,Ali Ahmed Qambrani,25.56014,68.48368,Earth filling of earthen Road and street,Ongoing,09/27/23,10/22/23,150,48.00%,36,36,72,0,0,0,18,12,30,0
+SRSO,Sanghar,Sanghar,Kurkali,Kurkali,Saeed Khan Babbar,25.952292,68.802203,Earth filling of earthen Road and street,Ongoing,09/28/23,10/23/23,97,30.00%,15,14,29,0,0,0,7,5,12,0
+SRSO,Sanghar,Sanghar,Bhirro,Bhirro,Jan Muhammad Wassan,25.840168,68.89877,Earth filling of earthen Road and street,Ongoing,09/28/23,10/23/23,81,99.00%,40,40,80,0,0,0,20,14,34,0
+SRSO,Sanghar,Sanghar,Bhirro,Bhirro,Deen Muhammad Gaju,25.75713,69.33591,Earth filling of earthen Road and street,Ongoing,09/28/23,10/23/23,51,98.00%,24,26,50,0,0,0,13,9,22,0
+SRSO,Sanghar,Sanghar,Bhirro,Bhirro,Mola Bux Chandio,25.866436,68.859361,Earth filling of earthen Road and street,Ongoing,09/29/23,10/24/23,87,99.00%,43,43,86,0,0,0,22,15,37,0
+SRSO,Sanghar,Sanghar,Bhirro,Bhirro,Ghulam Shah,25.83177,68.86239,Earth filling of earthen Road and street,Ongoing,09/29/23,10/24/23,44,98.00%,21,22,43,0,0,0,11,7,18,0
+SRSO,Shaheed Benazir Abad ,Dour,60 Male,60 Male,Syed Saleh Shah,26.3696893,68.4914705,Earth filling of earthen Road and street,Ongoing,09/10/23,10/05/23,176,9.00%,10,5,15,0,0,0,4,3,7,0
+SRSO,Shaheed Benazir Abad ,Sakrand,Haberi,Haberi,Sher Khan Watoo,26.4219092,68.1164389,Earth filling of earthen Road and street,Ongoing,09/14/23,10/10/23,100,32.00%,16,16,32,0,0,0,8,5,13,0
+SRSO,Shaheed Benazir Abad ,Sakrand,21 Dadh,21 Dadh,Nazar Muhammad Unar,26.174187,68.251281,Earth filling of earthen Road and street,Ongoing,09/13/23,10/09/23,70,33.00%,14,9,23,0,0,0,6,4,10,0
+SRSO,Shaheed Benazir Abad ,Qazi Ahmed,Pat Peeral,Pat Peeral,Panjo Solangi,26.38086491,68.06161165,Earth filling of earthen Road and street,Ongoing,10/15/23,10/10/23,65,14.00%,5,4,9,0,0,0,2,2,4,0
+SRSO,Shaheed Benazir Abad ,Qazi Ahmed,Sawari,Sawari,Sawari,26.5263042,68.15972524,Earth filling of earthen Road and street,Ongoing,09/14/23,10/10/23,85,22.00%,8,11,19,0,0,0,5,3,8,0
+SRSO,Shaheed Benazir Abad ,Qazi Ahmed,Pat Peeral,Pat Peeral,Shujaabad,26.3808746,68.06161165,Earth filling of earthen Road and street,Ongoing,09/14/23,10/10/23,110,19.00%,11,10,21,0,0,0,5,4,9,0
+SRSO,Shaheed Benazir Abad ,Qazi Ahmed,Mehraro,Mehraro,Sono Khan Chandio,26.386566,68.1256413,Earth filling of earthen Road and street,Ongoing,09/14/23,10/10/23,83,33.00%,14,13,27,0,0,0,7,5,12,0
+SRSO,Shaheed Benazir Abad ,Qazi Ahmed,Pat Peeral,Pat Peeral,Ibrahim Colony,26.35219031,68.0718255,Earth filling of earthen Road and street,Ongoing,09/21/23,10/15/23,85,64.00%,27,27,54,17,22,39,14,9,23,0
+SRSO,Shaheed Benazir Abad ,Dour,Khan Mohd Jalbani,Khan Mohd Jalbani,Karim Bux Wagan,26.4569567,68.3169767,Earth filling of earthen Road and street,Ongoing,09/22/23,10/16/23,150,9.00%,8,5,13,8,5,13,3,2,5,0
+SRSO,Shaheed Benazir Abad ,Dour,60 Mile,60 Mile,Soofi Faqeer,26.38191324,68.50810591,Earth filling of earthen Road and street,Ongoing,09/26/23,10/20/23,200,45.00%,49,40,89,0,0,0,22,15,37,0
+SRSO,Shaheed Benazir Abad ,Dour,60 Mile,60 Mile,Muhammad Yousif Brohi,26.38770519,68.50820381,Earth filling of earthen Road and street,Ongoing,09/26/23,10/20/23,80,29.00%,13,10,23,0,0,0,6,4,10,0
+SRSO,Shaheed Benazir Abad ,Sakrand,Dalel Dero,Dalel Dero,Dingano Magsi,26.172215,68.294838,Earth filling of earthen Road and street,Ongoing,09/26/23,10/20/23,50,24.00%,6,6,12,0,0,0,3,2,5,0
+SRSO,Shaheed Benazir Abad ,Sakrand,Fateh Pur,Fateh Pur,Ahmed Abad /(Khichi),26.170806,68.205824,Earth filling of earthen Road and street,Ongoing,09/26/23,10/20/23,70,33.00%,13,10,23,0,0,0,6,4,10,0
+SRSO,Shaheed Benazir Abad ,Sakrand,Fateh Pur,Fateh Pur,Noor Muhammad Rajput,26.161064,68.206538,Earth filling of earthen Road and street,Ongoing,09/26/23,10/20/23,70,11.00%,4,4,8,0,0,0,2,1,3,0
+SRSO,Shaheed Benazir Abad ,Sakrand,Kumb Leema,Kumb Leema,Wali Muhammad Kerio,26.112067,68.344277,Earth filling of earthen Road and street,Ongoing,09/26/23,10/20/23,150,29.00%,20,23,43,0,0,0,11,7,18,0
+SRSO,Shaheed Benazir Abad ,Dour,60 Mile,60 Mile,Ghulam Shah Mohalla-1,26.3880878,68.4942536,Earth filling of earthen Road and street,Ongoing,09/27/23,10/21/23,150,45.00%,34,34,68,0,0,0,17,12,29,0
+SRSO,Shaheed Benazir Abad ,Dour,60 Mile,60 Mile,Ghulam Shah Mohalla-2,26.3705899,68.4955804,Earth filling of earthen Road and street,Ongoing,09/27/23,10/21/23,150,43.00%,32,32,64,0,0,0,16,11,27,0
+SRSO,Shaheed Benazir Abad ,Dour,60 Mile,60 Mile,Ali Dad Rind,26.3726251,68.475409,Earth filling of earthen Road and street,Ongoing,09/27/23,10/21/23,80,83.00%,33,33,66,0,0,0,17,11,28,0
+SRSO,Shaheed Benazir Abad ,Dour,60 Mile,60 Mile,Ghous Bux Rind,26.384495,68.483515,Earth filling of earthen Road and street,Ongoing,09/27/23,10/21/23,150,30.00%,23,22,45,0,0,0,11,8,19,0
+SRSO,Shaheed Benazir Abad ,Dour,Nathiani,Nathiani,Nathiyani,26.4024344,68.2794482,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,73,95.00%,35,34,69,0,0,0,17,12,29,0
+SRSO,Shaheed Benazir Abad ,Qazi Ahmed,Ahmed Bughio,Ahmed Bughio,Allah Bachayo Bhand,26.39466622,68.05957317,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,67,39.00%,13,13,26,0,0,0,7,4,11,0
+SRSO,Shaheed Benazir Abad ,Qazi Ahmed,Patt Peeral,Patt Peeral,Mehrab Khan Mehar,26.35219021,68.0718255,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,88,99.00%,44,43,87,0,0,0,22,15,37,0
+SRSO,Shaheed Benazir Abad ,Dour,60 Mile,60 Mile,Abdul Kareem Bhurt,26.389657,68.4596302,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,250,17.00%,21,21,42,0,0,0,11,7,18,0
+SRSO,Shaheed Benazir Abad ,Dour,Ab UL Hassan,Ab UL Hassan,Dur Mohammad Brohi,26.5336183,68.31375,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,55,96.00%,27,26,53,0,0,0,13,9,22,0
+SRSO,Shaheed Benazir Abad ,Dour,Ab UL Hassan,Ab UL Hassan,Mashooq Brohi,26.5479683,68.31613,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,98,99.00%,49,48,97,0,0,0,24,16,40,0
+SRSO,Shaheed Benazir Abad ,Dour,Gupchani,Gupchani,Mohammad Khan Mugheri,26.1707864,68.5161171,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,59,73.00%,22,21,43,0,0,0,11,7,18,0
+SRSO,Shaheed Benazir Abad ,Dour,Gupchani,Gupchani,Naik Mohammad Brohi,26.1741005,68.5185128,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,67,61.00%,20,21,41,0,0,0,10,7,17,0
+SRSO,Shaheed Benazir Abad ,Qazi Ahmed,Mirza Abad,Mirza Abad,Ali Khan Zardari,26.3253922,68.176752,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,70,93.00%,33,32,65,0,0,0,16,11,27,0
+SRSO,Shaheed Benazir Abad ,Dour,Ab UL Hassan,Ab UL Hassan,Allah Bux Brohi,26.5479683,68.31613,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,52,50.00%,13,13,26,0,0,0,7,4,11,0
+SRSO,Shaheed Benazir Abad ,Sakrand,Hassan Jamali,Hassan Jamali,Allah Rakhio Jamali,26.11369,68.41932,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,65,37.00%,12,12,24,0,0,0,6,4,10,0
+SRSO,Shaheed Benazir Abad ,Qazi Ahmed,Patt Peeral,Patt Peeral,Allah warayo mehar,26.35219021,68.0718255,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,70,66.00%,23,23,46,0,0,0,12,8,20,0
+SRSO,Shaheed Benazir Abad ,Qazi Ahmed,Patt Peeral,Patt Peeral,Anwar Chadnio,26.3790381,68.0297247,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,85,59.00%,26,24,50,0,0,0,13,9,22,0
+SRSO,Shaheed Benazir Abad ,Sakrand,Hassan Jamali,Hassan Jamali,Dost peer,26.160665,68.4249933,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,60,75.00%,22,23,45,0,0,0,11,8,19,0
+SRSO,Shaheed Benazir Abad ,Sakrand,Majeed Keerio,Majeed Keerio,Ghulam Fareed Khetchi,26.163494,68.204559,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,50,32.00%,8,8,16,0,0,0,4,3,7,0
+SRSO,Shaheed Benazir Abad ,Qazi Ahmed,Haberi,Haberi,Gul Mohammad Lashari,26.44860644,68.1172514,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,95,86.00%,40,42,82,0,0,0,21,14,35,0
+SRSO,Shaheed Benazir Abad ,Sakrand,Hassan Jamali,Hassan Jamali,Haji Aachar Jamali,26.119801,68.407691,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,120,30.00%,20,16,36,0,0,0,9,6,15,0
+SRSO,Shaheed Benazir Abad ,Qazi Ahmed,Meer Mohammad juno,Meer Mohammad juno,Meer Mohammad Juno,26.2774022,68.148866,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,700,19.00%,60,73,133,0,0,0,33,23,56,0
+SRSO,Shaheed Benazir Abad ,Qazi Ahmed,Haberi,Haberi,Mitho Khan Kalyar,26.4591081,68.1377384,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,60,62.00%,18,19,37,0,0,0,9,6,15,0
+SRSO,Shaheed Benazir Abad ,Qazi Ahmed,Patt Peeral,Patt Peeral,Mubeen Mehar,26.35219021,68.0718255,Earth filling of earthen Road and street,Ongoing,09/28/23,10/23/23,77,99.00%,40,36,76,0,0,0,19,13,32,0
+SRSO,Shaheed Benazir Abad ,Qazi Ahmed,Sawri,Sawri,Mohammad Bachal Dahri,26.5668267,68.1750133,Earth filling of earthen Road and street,Ongoing,09/28/23,10/23/23,85,75.00%,33,31,64,0,0,0,16,11,27,0
+SRSO,Shaheed Benazir Abad ,Qazi Ahmed,Haberi,Haberi,Mohammad Hashim Dahri,26.4538181,68.1792844,Earth filling of earthen Road and street,Ongoing,09/29/23,10/24/23,55,62.00%,18,16,34,0,0,0,9,6,15,0
+SRSO,Shaheed Benazir Abad ,Sakrand,Majeed Keerio,Majeed Keerio,Mohammad Ismail Khetchi,26.1615915,68.204625,Earth filling of earthen Road and street,Ongoing,09/29/23,10/24/23,80,63.00%,26,24,50,0,0,0,13,9,22,0
+SRSO,Shaheed Benazir Abad ,Qazi Ahmed,Mirza Abad,Mirza Abad,Mohammad Ramzan Zardari,26.3228971,68.1766718,Earth filling of earthen Road and street,Ongoing,09/29/23,10/24/23,50,82.00%,20,21,41,0,0,0,10,7,17,0
+SRSO,Shaheed Benazir Abad ,Dour,Mirza Farukh Baig,Mirza Farukh Baig,Pir Bux Jamali,26.20258,68.5224333,Earth filling of earthen Road and street,Ongoing,09/30/23,10/25/23,127,99.00%,60,66,126,0,0,0,32,21,53,0
+SRSO,Shaheed Benazir Abad ,Qazi Ahmed,Sawri,Sawri,Qazi Nizam Din,26.5013481,68.1754234,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,175,78.00%,70,67,137,0,0,0,34,23,57,0
+SRSO,Shaheed Benazir Abad ,Qazi Ahmed,Sann,Sann,Sann,26.5100467,68.1697117,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,75,83.00%,31,31,62,0,0,0,16,11,27,0
+SRSO,Shaheed Benazir Abad ,Sakrand,Majeed Keerio,Majeed Keerio,Shah Mohammad Khetchi,26.165289,68.20524,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,50,52.00%,14,12,26,0,0,0,7,4,11,0
+SRSO,Shaheed Benazir Abad ,Sakrand,Hassan Jamali,Hassan Jamali,Sher Mohammad Brohi,26.107749,68.417703,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,35,97.00%,17,17,34,0,0,0,9,6,15,0
+SRSO,Shaheed Benazir Abad ,Sakrand,Hassan Jamali,Hassan Jamali,Sono Khan Zardari,26.14233,68.411688,Earth filling of earthen Road and street,Ongoing,27/09/23,22/10/23,97,18.00%,9,8,17,0,0,0,4,3,7,0
+SRSO,Shikarpur,Garhi Yaseen,Banbhiar,Banbhiar,Esso Marfani,27.9641614,68.7345911,Earth filling of earthen Road and street,Ongoing,09/14/23,10/10/23,50,42.00%,11,10,21,0,0,0,5,4,9,0
+SRSO,Shikarpur,Shikarpur,Humayoon,Humayoon,Mehboob Marfani,28.050946,68.514543,Earth filling of earthen Road and street,Ongoing,09/13/23,10/09/23,61,49.00%,15,15,30,0,0,0,8,5,13,0
+SRSO,Shikarpur,Lakhi,Nao Wah,Nao Wah,Nawab Jagirani,27.8561579,68.774843,Earth filling of earthen Road and street,Ongoing,09/13/23,10/09/23,60,43.00%,13,13,26,0,0,0,7,4,11,0
+SRSO,Shikarpur,Shikarpur,Humayoon,Humayoon,Nazar Kosh,28.1560555,68.560379,Earth filling of earthen Road and street,Ongoing,09/14/23,10/09/23,215,32.00%,38,30,68,0,0,0,17,12,29,0
+SRSO,Shikarpur,Garhi Yaseen,Jindodero,Jindodero,Samo Khan Junejo,27.7764544,68.760843,Earth filling of earthen Road and street,Ongoing,09/14/23,10/09/23,150,13.00%,12,8,20,0,0,0,5,3,8,0
+SRSO,Shikarpur,Garhi Yaseen,Banbhiar,Banbhiar,Ali Murad Kalar,27.874462,68.606176,Earth filling of earthen Road and street,Ongoing,09/16/23,10/10/23,30,47.00%,7,7,14,0,0,0,4,2,6,0
+SRSO,Shikarpur,Shikarpur,Hamayun,Hamayun,Khan muhammad kosh,28.1562222,68.3515402,Earth filling of earthen Road and street,Ongoing,09/26/23,10/20/23,63,98.00%,31,31,62,0,0,0,16,11,27,0
+SRSO,Shikarpur,Lakhi,Taib,Nao wah,Sona Shaikh,27.914596,68.558343,Earth filling of earthen Road and street,Ongoing,09/26/23,10/20/23,50,32.00%,8,8,16,0,0,0,4,3,7,0
+SRSO,Shikarpur,Lakhi,Rustam,Azeemabad,Younis machi,27.910096,68.550043,Earth filling of earthen Road and street,Ongoing,09/26/23,10/20/23,80,21.00%,6,11,17,0,0,0,4,3,7,0
+SRSO,Shikarpur,Shikarpur,Hamayun,Hamayun,Muhammad Azeem Buriro,28.13005,68.5644454,Earth filling of earthen Road and street,Ongoing,09/27/23,10/21/23,70,69.00%,21,27,48,0,0,0,12,8,20,0
+SRSO,Shikarpur,Shikarpur,Hamayun,Fateh pur,Mola bux brohi,28.0531554,68.561646,Earth filling of earthen Road and street,Ongoing,09/27/23,10/21/23,45,62.00%,18,10,28,0,0,0,7,5,12,0
+SRSO,Shikarpur,Shikarpur,Hamayun,Abdaal,Soomar Khan Lodra,28.047381,68.440642,Earth filling of earthen Road and street,Ongoing,09/28/23,10/22/23,20,50.00%,5,5,10,0,0,0,3,2,5,0
+SRSO,Shikarpur,Shikarpur,Hamayun,Abdaal,Rano khan marfani,28.054443,68.5215565,Earth filling of earthen Road and street,Ongoing,09/28/23,10/22/23,40,88.00%,18,17,35,0,0,0,9,6,15,0
+SRSO,Shikarpur,Garhi Yaseen,Waryaso,Fazul kosh,Jan muhammad mahar,27.864061,68.4250197,Earth filling of earthen Road and street,Ongoing,09/28/23,10/22/23,100,39.00%,20,19,39,0,0,0,10,7,17,0
+SRSO,Shikarpur,Garhi Yaseen,Shahpur jakhro,Noor gah unar,Huliya,27.8457913,68.5124181,Earth filling of earthen Road and street,Ongoing,10/03/23,10/27/23,40,55.00%,12,10,22,0,0,0,6,4,10,0
+SRSO,Shikarpur,Shikarpur,sultan kot,Belo,Gazi Katohar,28.056574,68.70117,Earth filling of earthen Road and street,Ongoing,10/03/23,10/27/23,60,40.00%,13,11,24,0,0,0,6,4,10,0
+SRSO,Shikarpur,Lakhi,Taib,Nao wah,Ghulam qadir magsi,27.924498,68.5572651,Earth filling of earthen Road and street,Ongoing,10/03/23,10/27/23,50,32.00%,8,8,16,0,0,0,4,3,7,0
+NRSP,Mirpurkhas,Sindhri,Ismail Kumbhar,Jameelani,Allah Dino shar,25.71883,69.1534,,Ongoing,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Sindhri,Ismail Kumbhar,Jameelani,Azam shar,25.71214,69.16193,,Ongoing,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Sindhri,Ismail Kumbhar,Jameelani,Ghulam Muhammad Shar,25.70604,69.16279,,Ongoing,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Jhuddo,Roshanabad,319-A,Muhammad Hassan Kaloi,24.871584,69.329633,,Ongoing,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Jhuddo,Roshanabad,319,Saindad Alyani,24.887037,69.32955,,Ongoing,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Jhuddo,Mir Allah Bachayo Talpur,315,Abdul Rehman Pitafi,25.01972,69.304253,,Ongoing,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Jhuddo,Mir Allah Bachayo Talpur,371,Allah Dino Khoso,24.988976,69.324355,,Ongoing,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Digri,Kangoro,174,Abbdul shakoor,25.1969,69.1604,,Ongoing,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Digri,Pabban ,164-A,Ram Colony,25.163421,69.03268,,Ongoing,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Kot Ghulam Mohammad,Haji Hadi Bux Dhonkai,332,Somar Saitho,25.3070683,69.2819626,,Ongoing,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Kot Ghulam Mohammad,Haji Hadi Bux Dhonkai,333,Bhgad Goth,25.2939438,69.274248,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Badin,Behdmi,Kunar,Haji Menh wasyio ,24.504699,68.925813,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Tando Bago,Khairpur Ghambo@ Malkani Sharif,Khairpur,Muhammad Soomar Shedi ,24.88554,69.24656,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Tando Bago,Khairpur Ghambo@ Malkani Sharif,Dhoro Kaka,Mansoor Laghari form,24.859623,69.28812,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Golarchi (Shaheed Fazil Rahoo),Tarai,Tarai,Bachal Samoon,24.72408,68.63829,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Golarchi (Shaheed Fazil Rahoo),Gharo,Gharo 1,Sajan Mallah,24.75418,68.71175,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Tando Bago,Khairpur Ghambo@ Malkani Sharif,Khairpur,Afzal Arain,24.880131,69.245814,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Badin,Behdmi,Wagodaho,Muhammad Ayoub Khaskheli,24.475687,68.911421,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Golarchi (Shaheed Fazil Rahoo),Tarai,Tarai,Muhammad Hassan Sodho,24.69384,68.65798,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Tando Bago,Khairpur Ghambo@ Malkani Sharif,Dhoro Kaka,Ramzan Chandio,24.859638,69.270236,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Golarchi (Shaheed Fazil Rahoo),Tarai,Tarai,Babar Ali Jalalani,24.68385,68.64714,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Golarchi (Shaheed Fazil Rahoo),Tarai,Tarai,Bhawo Kolhi,24.71037,68.64061,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Golarchi (Shaheed Fazil Rahoo),Tarai,Tarai,Muhammad Qasim Samejo,24.71773,68.63927,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Golarchi (Shaheed Fazil Rahoo),Tarai,Tarai,Baser Samejo,24.69821,68.63694,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Golarchi (Shaheed Fazil Rahoo),Tarai,Tarai,Allah Waryio Chang,24.70216,68.6264,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Badin,Behdmi,Nareeri,Banho Mallah,24.45319,68.91726,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Badin,Behdmi,Nareeri,Babu Khaskheli,24.45816,68.90248,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Badin,Dr. Abdullah Soomro,Kamaro,Pir Bux Mughari,24.63051,68.90197,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Badin,Behdmi,Ghurbi,Jaffar Mallah,24.44727,68.88775,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Badin,Shaheed Dodo Soomro,Lohan,Allah Rakhio Jat,24.37974,68.85693,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Tando Bago,Oliya Khan Shah,Chann,Rano Machi,24.787217,69.133115,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Tando Bago,Khairpur Ghambo@ Malkani Sharif,Dhoro Kaka,Mehmood Chandio,24.834795,69.282104,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Tando Bago,Khalifo Qasim,Rooparro,Lemoon Hingorjo,24.74647,69.14451,,Ongoing,,,,,,,,,,,,,,
+NRSP,Badin,Tando Bago,Khalifo Qasim,Rooparro,Malook Turk ,24.74007,69.1442,,Ongoing,,,,,,,,,,,,,,
+SRSO,Ghotki,Khan Garh,Bhetoor,Aithi,Sajawal Malik,27.4914,69.2114,Earth Filling,Completed,07/07/23,08/06/23,149,28.00%,29,13,42,18,10,28,8,11,19,735000
+SRSO,Ghotki,Mirpur Mathelo,Yaro Loond,Yaro Loond,Adho Lund,27.711711,68.81172,EarthFilling,Completed,08/18/23,09/12/23,192,17.00%,17,15,32,16,13,29,7,7,14,0
+SRSO,Ghotki,Mirpur Mathelo,Sahib Khan Lund,Sahib Khan Lund,Faqeer Muhammad Malik,27.8732418,69.548574,Earth filling of earthen Road and street,Completed,08/27/23,09/21/23,97,27.00%,13,13,26,5,7,12,9,8,17,0
+SRSO,Ghotki,Mirpur Mathelo,Machloo,Machloo,Arz Muhammad,27.7673548,69.5840908,Earth filling of earthen Road and street,Completed,09/06/23,10/01/23,71,99.00%,39,31,70,0,0,0,18,12,30,0
+SRSO,Ghotki,Khan Garh,Lohi,Lohi,Gul Akbar Pathan,27.8098738,69.3883298,Earth filling of earthen Road and street,Completed,09/07/23,10/02/23,177,48.00%,45,40,85,0,0,0,21,14,35,0
+SRSO,Ghotki,Khan Garh,Lohi,Lohi,Faiz Muhammad Chijin,27.7856075,69.401077,Earth filling of earthen Road and street,Completed,09/13/23,10/09/23,126,45.00%,24,33,57,0,0,0,14,10,24,0
+SRSO,Jacobabad,Jacobabad,Dasti,Dilawar Pur ,Muhammad Essa Machi ,28.3103621,68.4175241,Earth Filling,Completed,07/05/23,08/01/23,55,93.00%,35,16,51,4,1,5,12,15,27,656600
+SRSO,Jacobabad,Garhi Khero,Sher khan ,Sher khan ,Drighpur,28.014345,67.96341,Earth filling of earthen Road and street,Completed,08/23/23,09/16/23,100,24.00%,12,12,24,0,4,4,4,7,11,0
+SRSO,Jacobabad,Garhi khero,Sher Khan,Sher Khan,Ali Nawaz Jalbani,28.0059044,68.0207034,Earth filling of earthen Road and street,Completed,08/23/23,09/16/23,90,13.00%,6,6,12,1,3,4,2,3,5,0
+SRSO,Jacobabad,Thull,Misripur,Misripur,Piyaro Khoso,28.3938703,68.7514822,Earth filling of earthen Road and street,Completed,08/25/23,09/18/23,80,44.00%,17,18,35,6,3,9,4,11,15,0
+SRSO,Jacobabad,Jacobabad,Baqapur,Baqapur,Luqman Mareto,28.3477364,68.4515168,Earth filling of earthen Road and street,Completed,08/26/23,09/19/23,40,80.00%,16,16,32,3,2,5,5,9,14,0
+SRSO,Jacobabad,Garhi khero,Allah Abad,Allah Abad,Qutub Brohi,28.0394533,68.04817,Earth filling of earthen Road and street,Completed,08/30/23,09/23/23,110,47.00%,26,26,52,10,6,16,9,13,22,0
+SRSO,Jacobabad,Jacobabad,Bakapur,Umranipur,Hidayatullah Babar,28.35063,68.451597,Earth filling of earthen Road and street,Completed,08/26/23,09/23/23,265,6.00%,9,8,17,0,7,7,3,5,8,0
+SRSO,Kambher Shahdadkot,Warha ,Junani ,Junani ,Qabool Lashari,27.42597,67.76071,Rehabilitation of Earth filling of earthen Road and street ,Completed,09/01/23,09/25/23,100,38.00%,24,14,38,0,0,0,8,10,18,0
+SRSO,Kambher Shahdadkot,Warha,Warha,Warha,Behlolabad,27.44252,67.78192,Earth filling,Completed,08/24/23,09/17/23,125,13.00%,11,5,16,0,0,0,5,6,11,0
+SRSO,Kambher Shahdadkot,Warha,Warha,Warha,Mumtazabad,27.43063,67.80239,Earth filling,Completed,08/24/23,09/17/23,148,17.00%,14,11,25,0,0,0,6,5,11,0
+SRSO,Kambher Shahdadkot,Kamber,Koor suleman,Koor suleman,Koor suleman,27.66103,67.83407,Earth filling,Completed,08/24/23,09/18/23,99,88.00%,56,31,87,0,0,0,23,15,38,0
+SRSO,Kambher Shahdadkot,Shahdadkot,Jamali,Kutria,Jan Muhammad Jamali,27.92042,67.86165,Earth filling,Completed,08/25/23,09/21/23,117,75.00%,23,65,88,0,0,0,10,26,36,0
+SRSO,Kambher Shahdadkot,Shahdadkot,Jamali,Choda barrage,Soonharo Brohi,27.99036338,67.89700947,Earth filling,Completed,08/25/23,09/19/23,101,99.00%,58,42,100,0,0,0,25,20,45,0
+SRSO,Kambher Shahdadkot,Warha,Junani,Junani,Sahib Khan Tunio,27.42992,67.74368,Earth filling,Completed,08/25/23,09/19/23,171,30.00%,31,20,51,0,0,0,12,9,21,0
+SRSO,Kambher Shahdadkot,Kamber,Koor kamal,Koor suleman,Buhran Khan Chandio,27.648805,67.858834,Earth filling,Completed,08/26/23,09/20/23,49,22.00%,11,0,11,0,0,0, -   ,7,7,0
+SRSO,Kambher Shahdadkot,Warah,Warah,Warah,Khawand Dino Gogano,27.45047,67.80161,Earth filling of earthen Road and street,Completed,09/01/23,09/25/23,65,40.00%,16,10,26,0,0,0,7,4,11,0
+SRSO,Kambher Shahdadkot,Kambar,Koor Kamal,Koor Kamal,Muhalla Totani,27.649047,67.858019,Earth filling of earthen Road and street,Completed,08/26/23,09/20/23,49,33.00%,0,16,16,0,0,0,5,3,8,0
+SRSO,Khairpur,Kingri,Drib Mehar Shah,Mari ,Jam Jatoe ,27.44027778,68.56591667,Earth Filling,Completed,08/22/23,09/16/23,172,35.00%,30,30,60,0,0,0,15,15,30,0
+SRSO,Khairpur,Sobhodero,Rasool Abad ,Tunia,Ghulam Rasool Shar ,27.164261,68.383548,Earth Filling,Completed,08/21/23,09/17/23,20,80.00%,2,14,16,0,0,0,2,8,10,0
+SRSO,Khairpur,Sobhodero,Rasool Abad ,Tunia,Ghulam Akbar Burdi,27.163046,68.374121,Earth Filling,Completed,08/21/23,09/17/23,65,23.00%,8,7,15,0,0,0,5,5,10,0
+SRSO,Khairpur,Faiz Ganj,Akri ,Akri ,Naly Chango Shar,26.963913,68.402805,Earth Filling,Completed,08/21/23,09/17/23,34,88.00%,15,15,30,0,0,0,8,8,16,0
+SRSO,Khairpur,Faiz Ganj,Akri ,Akri ,Mahi Khan ,26.968008,68.40256,Earth Filling,Completed,08/21/23,09/17/23,80,90.00%,36,36,72,0,0,0,15,15,30,0
+SRSO,Khairpur,Kotdiji,Fatehpur,Fatehpur,Ghulam Rasool Rajper,27.362135,68.557919,Earth filling of earthen Road and street,Completed,08/25/23,09/18/23,87,46.00%,25,15,40,0,0,0,5,15,20,0
+SRSO,Khairpur,Kingri,Drib Mehar Shah,Drib Mehar Shah,Mehar Ujjan,27.418,68.553,Earth filling of earthen Road and street,Completed,08/29/23,09/22/23,124,32.00%,19,21,40,0,0,0,5,15,20,0
+SRSO,Khairpur,Kingri ,Drip Mehar Shah,Paki Khuhi,Malang Mangrio,27.45566667,68.53825,Earth Filling,Completed,06/07/23,07/18/23,232,14.00%,17,16,33,7,10,17,8,8,16,300300
+SRSO,Khairpur,Kingri ,Drip Mehar Shah,Saidi,Lal Dino Ujan ,27.43808333,68.55594444,Earth Filling,Completed,07/05/23,08/02/23,157,26.00%,31,10,41,23,9,32,10,13,23,583100
+SRSO,Larkana,Dokri,Wadi wahani,Khair Wah,Bahawal Jatt,27.346813,68.06168,Earth Filling and Rehabilitation ,Completed,09/08/23,10/02/23,100,27.00%,14,13,27,1,4,5,6,5,11,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Wagan,Wagan,Molvi Dhani Bux Mallah,26.768856,68.049653,Earth filling of earthen Road and street,Completed,08/22/23,09/14/23,35,94.00%,17,16,33,7,5,12,7,8,15,0
+SRSO,Naushahro Feroze,Bhirya,Maman Khai,Maman Khai,Gul Muhammad Bularr,26.885103,68.141175,Earth filling of earthen Road and street,Completed,08/23/23,09/16/23,80,24.00%,10,9,19,5,5,10,5,6,11,0
+SRSO,Naushahro Feroze,Bhirya,Maman Khai,Maman Khai,Lal Khan Solangi,26.877033,68.139368,Earth filling of earthen Road and street,Completed,08/23/23,09/16/23,30,57.00%,9,8,17,5,2,7,4,4,8,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Wagan,Wagan,Muhammad Hassan Mallah,26.776741,68.064828,Earth filling of earthen Road and street,Completed,08/23/23,09/16/23,20,70.00%,7,7,14,5,6,11,3,3,6,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Wagan,Wagan,Soonharo Janwari,26.795641,67.995026,Earth filling of earthen Road and street,Completed,08/26/23,09/23/23,100,23.00%,10,13,23,9,11,20,6,8,14,0
+SRSO,Naushahro Feroze,Bhirya,Qasim Khan,Qasim khahi,Koro Khan Majedano,26.8712333,68.176511,Earth filling of earthen Road and street,Completed,08/25/23,09/18/23,80,18.00%,8,6,14,4,5,9,3,6,9,0
+SRSO,Naushahro Feroze,Moro,Manhai,Sadhooja,Muhammad Qasim Jiskani,26.7313733,68.05304,Earth filling of earthen Road and street,Completed,08/24/23,09/06/23,18,83.00%,7,8,15,4,6,10,3,4,7,0
+SRSO,Naushahro Feroze,Moro,Manhai,Chandro,Major Kot,26.724681,68.051641,Earth filling of earthen Road and street,Completed,08/25/23,09/18/23,34,62.00%,10,11,21,9,11,20,5,7,12,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Noor Pur,Noor Pur,Darya Khan Chandio,26.767115,68.057026,Earth filling of earthen Road and street,Completed,08/26/23,09/19/23,38,61.00%,11,12,23,4,4,8,3,9,12,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Wagan,Wagan,Muhammad Ismail,26.776283,68.064642,Earth filling of earthen Road and street,Completed,09/02/23,09/19/23,14,86.00%,6,6,12,0,0,0,3,2,5,0
+SRSO,Naushahro Feroze,Mehrabpur,Jiando Khan Rajper,Jiando Khan Rajper,Sajan Khan Rajper,27.050084,68.437352,Earth filling of earthen Road and street,Completed,09/02/23,09/26/23,25,84.00%,10,11,21,0,0,0,6,4,10,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Wagan,Wagan,Malook Khan Chandio,26.740514,68.084335,Earth filling of earthen Road and street,Completed,09/04/23,09/28/23,55,38.00%,9,12,21,0,0,0,6,4,10,0
+SRSO,Naushahro Feroze,Naushahro Feroze,Wagan,Wagan,Jumo Khoso,26.780684,68.043847,Earth filling of earthen Road and street,Completed,09/14/23,10/10/23,35,43.00%,7,8,15,0,0,0,4,3,7,0
+SRSO,Sanghar,Sanghar,Kot Nawab ,Gharo,Suhno Faqeer Umraani-2,26.075905,69.03203,water course Desilting & Water pond desilting ,Completed,08/07/23,09/04/23,100,22.00%,12,10,22,0,0,0,6,3,9,0
+SRSO,Sanghar,Sanghar,Kot Nawab,Kot Nawab,Rasool Bux Umerani,26.09009,69.05876,Earth filling of earthen Road and street,Completed,08/28/23,09/21/23,124,56.00%,32,37,69,0,0,0,15,15,30,0
+SRSO,Sanghar,Sanghar ,Kot Nawab,Gharo,Suhno Faqeer Umraani,26.07563,69.03175,Earth Filling,Completed,07/10/23,08/05/23,100,38.00%,29,9,38,0,0,0,12,5,17,647500
+SRSO,Sanghar,Sanghar ,Kot Nawab,Gharo,Malook Jamali,26.039811,69.023854,Earth Filling,Completed,07/10/23,08/09/23,58,48.00%,22,6,28,0,0,0,12, -   ,12,472500
+SRSO,Shaheed Benazir Abad ,Dour,Haji Khan Mohd Jalbani,RV-53,Khan Muhammad Jalbani ,26.48111831,68.31429782,Earth Filling,Completed,07/11/23,08/05/23,150,19.00%,8,20,28,6,11,17,5,10,15,490000
+SRSO,Shaheed Benazir Abad ,Qazi Ahmed,Mehraro,Kungu,Mall Rahu,26.3901525,68.1096531,EarthFilling,Completed,08/08/23,09/02/23,150,32.00%,25,23,48,8,3,11,17,6,23,0
+SRSO,Shaheed Benazir Abad ,Qazi Ahmed,Mehraro,Mehraro,Bahadur Chandio,26.38877777,68.09328777,EarthFilling,Completed,08/05/23,09/01/23,55,49.00%,15,12,27,7,4,11,8,6,14,0
+SRSO,Shaheed Benazir Abad ,Sakrand,Majeed Keerio,21 Dadh,21 Dadh,26.171007,68.225742,EarthFilling,Completed,08/05/23,09/06/23,1500,4.00%,32,35,67,17,23,40,15,12,27,0
+SRSO,Shaheed Benazir Abad ,Dour,Abu ul Hassan,Abu ul Hassan,Shahnawaz Mari,26.5399594,68.2796667,Earth filling of earthen Road and street,Completed,09/02/23,09/26/23,50,96.00%,23,25,48,0,0,0,10,15,25,0
+SRSO,Shaheed Benazir Abad ,Sakrand,Fatehpur,Fatehpur,Shamul Unar,26.174267,68.187265,Earth filling of earthen Road and street,Completed,09/06/23,10/01/23,70,19.00%,7,6,13,0,0,0,3,2,5,0
+SRSO,Shaheed Benazir Abad ,Dour,60 Male,60 Male,Haji Ahmed Ali Brohi,26.37674196,68.44940844,Earth filling of earthen Road and street,Completed,09/07/23,10/02/23,80,29.00%,8,15,23,0,0,0,6,4,10,0
+SRSO,Shaheed Benazir Abad ,Dour,60 Male,60 Male,Muhammad Hashim Mashori,26.4049196,68.4059703,Earth filling of earthen Road and street,Completed,09/07/23,10/02/23,100,26.00%,13,13,26,0,0,0,7,4,11,0
+SRSO,Shaheed Benazir Abad ,Sakrand,Fatehpur,Fatehpur,Allah Ditto Chandio,26.153138,68.190503,Earth filling of earthen Road and street,Completed,09/10/23,10/05/23,19,68.00%,9,4,13,0,0,0,3,2,5,0
+SRSO,Shikarpur,Shikarpur,Karan,Bangul Khan Jafri,Bangul Khan Jafri,27.960107,68.561797,Earth Filling,Completed,08/20/23,09/13/23,70,79.00%,28,27,55,1,9,10,4,18,22,0
+SRSO,Shikarpur,Lakhi,Rustam,Rustam,Tanvari Jagirani,27.946746,68.668953,Earth filling,Completed,08/20/23,09/13/23,150,19.00%,17,12,29,7,3,10,15,13,28,0
+SRSO,Shikarpur,Garhi Yaseen,Amrot Sharif,Amrot Sharif,Ali Hassan Kehar,27.8197313,68.6571904,Earth filling of earthen Road and street,Completed,08/28/23,09/21/23,60,57.00%,20,14,34,0,0,0,7,10,17,0
+SRSO,Shikarpur,Shikarpur,Lodra,Lodra,Achar Jogi,28.0199358,68.58527,Earth filling of earthen Road and street,Completed,09/01/23,09/25/23,85,13.00%,6,5,11,0,0,0,2,4,6,0
+SRSO,Shikarpur,Shikarpur,Sultankot,Sultankot,Karim Bux Brohi,28.057962,68.421076,Earth filling of earthen Road and street,Completed,09/08/23,10/03/23,60,30.00%,10,8,18,0,0,0,5,3,8,0
+SRSO,Shikarpur,Shikarpur,Sultankot,Sultankot,Mehboob Bukejo,28.057021,68.53537,Earth filling of earthen Road and street,Completed,09/08/23,10/03/23,70,29.00%,10,10,20,0,0,0,5,3,8,0
+SRSO,Shikarpur,Shikarpur,Humayoon,Humayoon,Bangul Kosh,28.143774,68.526068,Earth filling of earthen Road and street,Completed,09/09/23,10/04/23,60,33.00%,14,6,20,0,0,0,5,3,8,0
+NRSP,Mirpurkhas,Sindhri,Ismail Kumbhar,Jameelani,Piyaro Soomro,25.72228,69.17514,,Completed,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Jhuddo,Roshanabad,319-A,Ali Bux Kaloi ,24.867472,69.323094,,Completed,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Jhuddo,Roshanabad,319-A,Mir Muhammad Kaloi,24.874436,69.328806,,Completed,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Jhuddo,Roshanabad,375,Mir Malik Muhammad Colony,24.898441,69.336453,,Completed,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Jhuddo,Roshanabad,319-B,Ramzan Amdani,24.842319,69.314572,,Completed,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Jhuddo,Roshanabad,374,Gujo Kachi,24.9123293,69.3578662,,Completed,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Digri,Mir Fateh Khan Talpur,185,Eassa Kolai,25.1035,69.1818,,Completed,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Digri,Pabban ,164,164-A,25.163921,69.068,,Completed,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Digri,Soofan Shah,173,Mir Sharik Talpur,25.2058,69.1453,,Completed,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Digri,Mir Haji Hayat Khan Talpur,171,Mubark Nohani,25.123,69.0828,,Completed,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Digri,Mir Haji Hayat Khan Talpur,162-A,Haji Umerdin arain,25.13123,69.1230828,,Completed,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Kot Ghulam Mohammad,Rais Khair Muhammad Bhurgari,286,Mir Fazullah Talpur,25.3175664,69.1962144,,Completed,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Kot Ghulam Mohammad,Dengan Bhurgari,235,Qasim Mahar,25.434403,69.2012694,,Completed,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Kot Ghulam Mohammad,Dengan Bhurgari,235,Aarab Mahar,25.4360967,69.1951276,,Completed,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Kot Ghulam Mohammad,Dengan Bhurgari,223,Ghulam Rasool Bhurghari,25.4230149,69.2284976,,Completed,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Kot Ghulam Mohammad,Dengan Bhurgari,232,Ch :Abdul Wahid,25.3757897,69.2396582,,Completed,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Kot Ghulam Mohammad,Dengan Bhurgari,232,Ch: Sanaullah Randhawa,25.3797194,69.2496203,,Completed,,,,,,,,,,,,,,
+NRSP,Mirpurkhas,Kot Ghulam Mohammad,Dengan Bhurgari,222,Geo Khan  burghari,25.4188721,69.228436,,Completed,,,,,,,,,,,,,,
+NRSP,Badin,Badin,Behdmi,Kunar,Mubarak Solangi,24.511815,68.919786,,Completed,,,,,,,,,,,,,,
+NRSP,Badin,Golarchi (Shaheed Fazil Rahoo),Tarai,Tarai,Haji Saleh Samejo,24.71478,68.64156,,Completed,,,,,,,,,,,,,,
+NRSP,Badin,Golarchi (Shaheed Fazil Rahoo),Tarai,Tarai,Meeran Patel Samejo,24.70182,68.65025,,Completed,,,,,,,,,,,,,,
+NRSP,Badin,Tando Bago,Khairpur Ghambo@ Malkani Sharif,Dhoro Kaka,Haji Khan Chandio,24.849338,69.285311,,Completed,,,,,,,,,,,,,,
+NRSP,Badin,Badin,Behdmi,Ghurbi,Jani Mallah ,24.43112,68.88192,,Completed,,,,,,,,,,,,,,
+NRSP,Badin,Tando Bago,Khairpur Ghambo@ Malkani Sharif,Malkani,Mehmoodabad,24.877422,69.259189,,Completed,,,,,,,,,,,,,,
+NRSP,Badin,Tando Bago,Khairpur Ghambo@ Malkani Sharif,Khairpur,Waso Kamdar,24.893213,69.235954,,Completed,,,,,,,,,,,,,,
+NRSP,Badin,Golarchi (Shaheed Fazil Rahoo),Tarai,Minyoon,Bhoro Kolhi,24.65268,68.66647,,Completed,,,,,,,,,,,,,,
+NRSP,Badin,Badin,Behdmi,Ghurbi,Pandhi Ghirano,24.47406,68.87549,,Completed,,,,,,,,,,,,,,
+NRSP,Badin,Golarchi (Shaheed Fazil Rahoo),Tarai,Tarai,Ramzan Sarki,24.72203,68.63701,,Completed,,,,,,,,,,,,,,
+NRSP,Badin,Badin,Dr. Abdullah Soomro,Abri,Muhammad Juman Mallah,24.66211,68.89394,,Completed,,,,,,,,,,,,,,
+NRSP,Badin,Golarchi (Shaheed Fazil Rahoo),Gharo,koryani,Dodo Mallah,24.76002,68.70543,,Completed,,,,,,,,,,,,,,
+NRSP,Badin,Tando Bago,Khairpur Ghambo@ Malkani Sharif,Dhoro Kaka,Abdul Gani Gujjar,24.842402,69.282092,,Completed,,,,,,,,,,,,,,
+NRSP,Badin,Tando Bago,Khairpur Ghambo@ Malkani Sharif,Dhoro Kaka,Mubin Ahmed  Chandio,24.836331,69.282016,,Completed,,,,,,,,,,,,,,
+NRSP,Badin,Tando Bago,Khairpur Ghambo@ Malkani Sharif,Dhoro Kaka,Agaidino Shah,24.84246,69.280312,,Completed,,,,,,,,,,,,,,
