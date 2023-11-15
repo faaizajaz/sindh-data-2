@@ -4,7 +4,7 @@ import dash
 import dash_bootstrap_components as dbc
 from dash import html
 from flask import Flask
-from utils.settings import APP_DEBUG, APP_HOST, MAPBOX_TOKEN
+from utils.settings import APP_DEBUG, APP_HOST, APP_PORT, MAPBOX_TOKEN
 
 server = Flask(__name__)
 app = dash.Dash(
@@ -45,4 +45,4 @@ app.layout = serve_layout
 server = app.server
 
 if __name__ == "__main__":
-    app.run_server(host=APP_HOST, port=8085, debug=APP_DEBUG)
+    app.run_server(host=APP_HOST, port=APP_PORT, debug=APP_DEBUG)
