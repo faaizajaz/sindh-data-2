@@ -20,7 +20,25 @@ app = dash.Dash(
 
 
 def serve_layout():
-    return html.Div("Bootstrapped")
+    return dbc.Container(
+        [
+            dbc.Row(
+                [
+                    # Left Sidebar
+                    dbc.Col(
+                        html.Div("Sidebar"),
+                        width=2,
+                    ),
+                    # Main content
+                    dbc.Col(
+                        html.Div("Main content"),
+                        width=10,
+                    ),
+                ]
+            ),
+        ],
+        fluid=True,
+    )
 
 
 app.layout = serve_layout
