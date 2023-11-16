@@ -2,8 +2,12 @@ import os
 
 import dash
 import dash_bootstrap_components as dbc
+import geopandas
+import pandas as pd
+import plotly.express as px
 from dash import html
 from flask import Flask
+from pages.home import serve_map
 from utils.settings import APP_DEBUG, APP_HOST, APP_PORT, MAPBOX_TOKEN
 
 server = Flask(__name__)
@@ -31,7 +35,7 @@ def serve_layout():
                     ),
                     # Main content
                     dbc.Col(
-                        html.Div("Main content"),
+                        children=[serve_map()],
                         width=10,
                     ),
                 ]
