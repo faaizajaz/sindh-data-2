@@ -11,6 +11,11 @@ from utils.settings import MAPBOX_TOKEN
 
 df = pd.read_csv("./src/data/convergence.csv", low_memory=False)
 
+# df["scheme_uid"] = df["scheme_uid"].astype(str)
+# df["infra_uid"] = df["infra_uid"].astype(str)
+# df["disp_uid"] = df["disp_uid"].astype(str)
+# df["school_uid"] = df["school_uid"].astype(str)
+
 
 def serve_map():
     # print(df2)

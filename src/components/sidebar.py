@@ -42,7 +42,7 @@ def sidebar_data_update(selected_districts_df, data_selection):
     x["bin_combination"] = x.apply(_calc_binary, axis=1, args=(data_selection,))
 
     x["bin_combination"] = x["bin_combination"].astype(str)
-    x["bin_combination_parsed"] = x.apply(_parse_binary, axis=1)
+    x["bin_combination_parsed"] = x.apply(_parse_binary, axis=1, args=(data_selection,))
     # print(data_selection)
 
     # print(x)
@@ -67,34 +67,55 @@ def sidebar_data_update(selected_districts_df, data_selection):
 
 
 def _calc_binary(row, data_selection):
-    bin_num = 0b0
-    print(data_selection)
-
     if data_selection is None or len(data_selection) == 0:
-        return 0b0000
+        return ""
+
+    data_selection_queue = deque(maxlen=len(data_selection))
 
     for selection in data_selection:
         if selection == "SFERP Infra":
+            # print(row["infra_uid"])
             if row["infra_uid"] is not None:
-                bin_num = bin_num + 0b1000
+                # bin_num = bin_num + 0b1000
+                data_selection_queue.append("1")
+            else:
+                data_selection_queue.append("0")
+                # print(type(row["infra_uid"]))
+
         if selection == "SFERP Livelihood":
             if row["scheme_uid"] is not None:
-                bin_num = bin_num + 0b0100
+                data_selection_queue.append("1")
+            else:
+                data_selection_queue.append("0")
+
         if selection == "Dispensaries":
             if row["disp_uid"] is not None:
-                bin_num = bin_num + 0b0010
+                # print(row["disp_uid"])
+                data_selection_queue.append("1")
+            else:
+                data_selection_queue.append("0")
+
         if selection == "Schools":
             if row["school_uid"] is not None:
-                bin_num = bin_num + 0b0001
+                data_selection_queue.append("1")
+            else:
+                data_selection_queue.append("0")
 
+    # print(data_selection_queue)
+    queue_string = "".join(data_selection_queue)
+    # print(queue_string)
+    # print(f"{bin_num:04b}")
+    # print(bin_num)
+    # print(queue_string)
     # return fixed length 4 bit number
-    return f"{bin_num:04b}"
+    # return f"{bin_num:04b}"
+    return queue_string
 
 
-def _parse_binary(row):
+def _parse_binary(row, data_selection):
     result = []
 
-    outcomes = ["infra", "scheme", "disp", "school"]
+    outcomes = data_selection
 
     for i in range(len(row["bin_combination"])):
         if row["bin_combination"][i] == "1":
