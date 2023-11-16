@@ -115,7 +115,7 @@ def set_districts_memory(selected_districts):
     Output("main-map", "figure", allow_duplicate=True),
     Output("selected-districts-df", "data"),
     Input("selected-district-memory", "data"),
-    prevent_initial_call="initial_duplicate",
+    prevent_initial_call=True,
 )
 def filter_selected_districts_memory(selected_districts):
     if selected_districts is None:
