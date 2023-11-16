@@ -1,0 +1,233 @@
+S_No,Division,District,Taluka,UC,Name_of_th,Latitude,Longitude,HF_Managed,Status,Funded_By,Phase
+"4",Hyderabad,Jamshoro,Kotri,Petaro,District Council Dispensary Petaro,25.53528000000,68.32135300000,DOH,Functional,World Bank,Second Phase
+"32",Hyderabad,Thatta,Thatta,Jhimpeer,Government Dispensary Looni Kot,25.33714000000,68.14597200000,DOH,Functional,Islamic Dev: Bank,First Phase
+"38",Hyderabad,Badin,Golarchi,Ahmed Rajo,Government Dispensary Nehmat Gujar,24.64315000000,68.55033611000,DOH,Non Functional,World Bank,Second Phase
+"39",Hyderabad,Badin,Golarchi,Ahmed Rajo,Government Dispensary Chak-05,24.58242000000,68.59397200000,DOH,Functional,World Bank,Second Phase
+"40",Hyderabad,Badin,Golarchi,Ahmed Rajo,Government Dispensary Chak-10,24.50778000000,68.64298600000,DOH,Functional,World Bank,Second Phase
+"41",Hyderabad,Badin,Golarchi,Gharo,Government Dispensary Mohammad Ali Mandharo,24.58794000000,68.66580000000,DOH,Non Functional,World Bank,Second Phase
+"42",Hyderabad,Badin,Golarchi,Golarchi,Government Dispensary Chak-36,24.53620000000,68.54630600000,DOH,Functional,World Bank,Second Phase
+"43",Hyderabad,Badin,Golarchi,Golarchi,Government Dispensary Ismail Khan Notkani,25.01972000000,68.78476400000,DOH,Non Functional,World Bank,Second Phase
+"44",Hyderabad,Badin,Golarchi,Tarai,Government Dispensary Abdul Majeed Nohani,24.73393000000,68.68901000000,DOH,Functional,World Bank,Second Phase
+"45",Hyderabad,Badin,Golarchi,Tarai,Government Dispensary Ghohram Khan Nohani,24.76152000000,68.67076000000,DOH,Non Functional,World Bank,Second Phase
+"46",Hyderabad,Badin,Golarchi,Tarai,Government Dispensary Meran Patel Samejo,24.70410000000,68.64393000000,DOH,Non Functional,World Bank,Second Phase
+"47",Hyderabad,Badin,Matli,Ghulam Shah,Government Dispensary Jan Mohammad Laghari,25.21964000000,68.74677000000,DOH,Non Functional,World Bank,Second Phase
+"48",Hyderabad,Badin,Talhar,GM Nizamani,Government Dispensary Kamal Halepota,24.92021000000,68.83919444000,DOH,Non Functional,World Bank,Second Phase
+"49",Hyderabad,Badin,Talhar,Peru Lashari,Government Dispensary Peru Lashari,24.76529000000,68.81493100000,DOH,Non Functional,World Bank,Second Phase
+"50",Hyderabad,Badin,Badin,Lunari Sharif,Government Dispensary Ishaque Samoo,24.51144000000,68.89134700000,DOH,Functional,World Bank,Second Phase
+"51",Hyderabad,Badin,Badin,Nindo,Government Dispensary Arbab Baqa Nohario,24.60939000000,69.05626700000,DOH,Functional,World Bank,Second Phase
+"52",Hyderabad,Badin,Tando Bago,Pangrio,Government Dispensary Bachal Khan Laghari Taluka Tando Bago,25.04019000000,69.01522000000,DOH,Non Functional,World Bank,Second Phase
+"53",Hyderabad,Dadu,Dadu,Muradabad,Government Dispensary Shafi Muhammad Panhwar DoH,26.53588000000,67.31381800000,DOH,Functional,World Bank,Second Phase
+"54",Hyderabad,Dadu,Dadu,Nao Goth,Government Dispensary Taj Muhammad Zardari. DoH,27.15583000000,67.98583100000,DOH,Functional,World Bank,Second Phase
+"55",Hyderabad,Dadu,Dadu,Pipri,Government Dispensary Shah Nawaz Mastoi.,26.70555000000,67.78729300000,DOH,Functional,World Bank,Second Phase
+"56",Hyderabad,Dadu,Dadu,Thariri Muhabat,Government Dispensary Walio Khoso. DoH,27.21738000000,67.89473700000,DOH,Functional,World Bank,Second Phase
+"57",Hyderabad,Dadu,Dadu,Yar Mohammad Kalhoro,Government Dispensary Mir Muhammad Kalhoro. DoH,26.66157000000,67.71904800000,DOH,Functional,World Bank,Second Phase
+"58",Hyderabad,Dadu,Johi.,Bahawalpur,Government Dispensary Noor Muhammad DoH,26.75091000000,67.62951300000,DOH,Functional,World Bank,Second Phase
+"59",Hyderabad,Dadu,Johi.,Phulji village,Government Dispensary Bahadur Khan Naich,26.92144600000,67.67280200000,DOH,Functional,World Bank,Second Phase
+"60",Hyderabad,Dadu,Johi.,Tore.,Government Dispensary Taj Muhammad Doltani. DoH,26.69088000000,67.60961500000,DOH,Functional,World Bank,Second Phase
+"61",Hyderabad,Dadu,KN Shah,Kakar.,Government Dispensary Kakar. DoH,26.38796000000,67.29568000000,DOH,Functional,World Bank,Second Phase
+"62",Hyderabad,Dadu,MEHAR,Baladai.,Government Dispensary Loung Tunio. DoH,27.26765000000,67.79078500000,DOH,Functional,World Bank,Second Phase
+"63",Hyderabad,Dadu,MEHAR,Bali Shah.,Government Dispensary Bhand Mari. DoH,27.24535000000,67.62908400000,DOH,Functional,World Bank,Second Phase
+"64",Hyderabad,Dadu,MEHAR,Kolachi.,Government Dispensary Ambar. DoH,27.13769000000,67.95688200000,DOH,Functional,World Bank,Second Phase
+"65",Hyderabad,Dadu,Johi.,Tando Rahim,Government Dispensary Murad Khan Jamali,26.61687000000,67.42914167000,PPHI,Functional,World Bank,Second Phase
+"66",Hyderabad,Jamshoro,Sehwan,Bubak,Government Dispensary Nagar Khan Brohi,26.50884000000,67.67743000000,PPHI,Functional,World Bank,Second Phase
+"67",Hyderabad,Jamshoro,Sehwan,Bubak,Government Dispensary Gaheer,26.43135000000,67.86438000000,PPHI,Functional,World Bank,Second Phase
+"68",Hyderabad,Jamshoro,Sehwan,Channa,Government Dispensary Paka Channa,26.43656000000,67.84375170000,PPHI,Functional,World Bank,Second Phase
+"69",Hyderabad,Jamshoro,Sehwan,Channa,Government Dispensary Umeed Ali Katohar,26.47174000000,67.83122000000,PPHI,Functional,World Bank,Second Phase
+"70",Hyderabad,Jamshoro,Sehwan,Channa,Government Dispensary Karampur,26.46561000000,67.84822270000,PPHI,Functional,World Bank,Second Phase
+"71",Hyderabad,Jamshoro,Sehwan,Dall,Government Dispensary Yousif Jamali,26.52384000000,67.87643000000,PPHI,Functional,World Bank,Second Phase
+"72",Hyderabad,Jamshoro,Sehwan,Talti,Basic Health Unit Kot Lashari,26.48975000000,67.81394500000,PPHI,Non Functional,World Bank,Second Phase
+"73",Hyderabad,Jamshoro,Sehwan,Talti,Basic Health Unit Naon Wahan,26.65524000000,67.43487643000,PPHI,Functional,World Bank,Second Phase
+"74",Hyderabad,Jamshoro,Sehwan,Talti,Government Dispensary Bilawalpur,26.67689000000,67.72055630000,PPHI,Functional,World Bank,Second Phase
+"75",Hyderabad,Jamshoro,Sehwan,Talti,Government Dispensary Duri Dero,26.67524000000,67.44856430000,PPHI,Non Functional,World Bank,Second Phase
+"76",Hyderabad,Jamshoro,Sehwan,Talti,Government Dispensary Mahi Otho,26.86524000000,67.56856430000,PPHI,Functional,World Bank,Second Phase
+"77",Hyderabad,Jamshoro,Sehwan,Talti,Government Dispensary Manhyoom,26.68524000000,67.69456430000,PPHI,Functional,World Bank,Second Phase
+"78",Hyderabad,Jamshoro,Sehwan,Talti,"Maternity Home & 05 Bedded Mother & Child Care Centre, Bhmbha",26.54493000000,67.73458710000,PPHI,Functional,World Bank,Second Phase
+"111",Larkana,Larkana,Bakrani,Maharwada,Government Dispensary Fareed Abad,27.46265000000,68.22986200000,DOH,Functional,World Bank,First Phase
+"112",Larkana,Larkana,Bakrani,Rasheed Wagan,Government Dispensary Mehrab Sandeelo,27.44863000000,68.03136610000,DOH,Non Functional,World Bank,First Phase
+"113",Larkana,Larkana,Dokri,Bagi,Government Dispensary Dara,27.25970000000,68.10712200000,DOH,Functional,World Bank,First Phase
+"114",Larkana,Larkana,Larkano,Dhamraha,Govt:Dispensary Khursheed Ahmed Ji Wandh,27.68856000000,68.24518400000,DOH,Non Functional,World Bank,First Phase
+"115",Larkana,Larkana,Larkano,Fatehpur,Government Dispensary Longaee,27.64679000000,68.17240300000,DOH,Functional,World Bank,First Phase
+"116",Larkana,Larkana,Larkano,Ratokot,Government Dispensary Ratokot,27.54360000000,68.08241800000,DOH,Functional,World Bank,First Phase
+"117",Larkana,Larkana,Ratodero,Bagi,Government Dispensary Bagi,27.32377000000,68.10407100000,DOH,Non Functional,World Bank,First Phase
+"118",Larkana,Larkana,Ratodero,Bahman,Government Dispensary Bhoonbhatpur,27.71247000000,68.41660167000,DOH,Functional,World Bank,First Phase
+"119",Larkana,Larkana,Ratodero,Jumo agham,Government Dispensary Meval Kot,27.86213000000,68.20018300000,DOH,Non Functional,World Bank,First Phase
+"120",Larkana,Larkana,Ratodero,Masoodero,Government Dispensary Yaroo Jalbani,27.78885000000,68.33594580000,DOH,Non Functional,World Bank,First Phase
+"121",Larkana,Larkana,Ratodero,Taib,Government Dispensary Gabbar,27.77771000000,68.23644830000,DOH,Non Functional,World Bank,First Phase
+"122",Larkana,Larkana,Ratodero,Waris Dino Machi,Government Dispensary Wada Boosan,27.91581000000,68.23611800000,DOH,Functional,World Bank,First Phase
+"123",Larkana,Larkana,Ratodero,Saidodero,Government Dispensary Tagar,27.62917000000,68.29088850000,DOH,Functional,World Bank,First Phase
+"124",Larkana,Jacobabad,Thul,Garhi Hassan,Government Dispensary Abdul Qadir Khan Buriro,28.15328000000,68.71678600000,DOH,Non Functional,World Bank,First Phase
+"125",Larkana,Jacobabad,Thul,Garhi Hassan,Government Dispensary Ali Murad kandrani,28.23826000000,68.68678600000,DOH,Non Functional,World Bank,First Phase
+"126",Larkana,Jacobabad,Thul,Garhi Hassan,Government Dispensary Balach Khan Banglani,28.21095000000,68.82885700000,DOH,Non Functional,World Bank,First Phase
+"127",Larkana,Jacobabad,Thul,Garhi Hassan,Government Dispensary Chowk Lashari,28.28981000000,68.86022900000,DOH,Non Functional,World Bank,First Phase
+"128",Larkana,Jacobabad,Thul,Garhi Hassan,Government Dispensary Ghazanfar Khan Jakhrani,28.28040000000,68.43940800000,DOH,Non Functional,World Bank,First Phase
+"129",Larkana,Jacobabad,Thul,Garhi Hassan,Government Dispensary Ghulam Hussain Sarki,28.35096000000,68.72317600000,DOH,Non Functional,World Bank,First Phase
+"130",Larkana,Jacobabad,Thul,Garhi Hassan,Government Dispensary Gul Sher Khan Kandrani,28.27694000000,68.75939444000,DOH,Non Functional,World Bank,First Phase
+"131",Larkana,Jacobabad,Thul,Garhi Hassan,Government Dispensary Liquatabad Khoso,28.34755000000,68.75773600000,DOH,Non Functional,World Bank,First Phase
+"132",Larkana,Jacobabad,Thul,Garhi Hassan,Government Dispensary Rehmatullah Sarki / Sachal Sarki,28.20712000000,68.57914900000,DOH,Non Functional,World Bank,First Phase
+"133",Larkana,Jacobabad,Thul,Garhi Hassan,Government Dispensary Shah Jahan Khan Bhangar,28.36924000000,68.77514600000,DOH,Non Functional,World Bank,First Phase
+"134",Larkana,Jacobabad,Thul,Garhi Hassan,Government Dispensary Ustad Nazeer Ahmed Noonari,28.22298000000,68.77113400000,DOH,Non Functional,World Bank,First Phase
+"135",Larkana,Jacobabad,Thul,Garhi Hassan,Government Dispensary Zarak Brohi,28.24580000000,68.60495200000,DOH,Non Functional,World Bank,First Phase
+"140",Larkana,Shikarpur,Garhi Yasin,Dakhan,Government Dispensary Dakhan,27.80126000000,68.40150512000,DOH,Functional,World Bank,First Phase
+"141",Larkana,Shikarpur,Lakhi,Sehwani,Government Dispensary Muhammd Mithal Jatoi,27.80343870000,68.77882381000,DOH,Functional,World Bank,First Phase
+"142",Larkana,Shikarpur,Lakhi,Masti Khan,Government Dispensary Aie Jo Ghoth,27.77915029000,68.59232281000,DOH,Non Functional,World Bank,First Phase
+"143",Larkana,Shikarpur,Lakhi,Rahimabad,Govt: Disp: Sardarpur,28.03329000000,68.81493191000,DOH,Functional,World Bank,First Phase
+"144",Larkana,Jacobabad,Garhi Khairo,Allahabad,Government Dispensary Allahabad,28.19448000000,68.31755400000,PPHI,Non Functional,World Bank,First Phase
+"145",Larkana,Jacobabad,Garhi Khairo,Muhamadpur,Government Dispensary Muhammad Rahim Jakhrani,27.96883000000,68.26578513000,PPHI,Functional,World Bank,First Phase
+"146",Larkana,Jacobabad,Jacobabad,Dashti,DG Juma Khan Dashti,28.30233000000,68.45855989000,PPHI,Functional,World Bank,First Phase
+"147",Larkana,Jacobabad,Jacobabad,Garhi Chand,Government Dispensary Adam Khan Pahnwar,28.23833000000,68.47622100000,PPHI,Functional,World Bank,First Phase
+"148",Larkana,Jacobabad,Thul,Balochabad,Government Dispensary Imam Bux Kehar,28.21321000000,68.51656800000,PPHI,Functional,World Bank,First Phase
+"149",Larkana,Kambar Shahdadkot,Kamber,Boohar,Government Dispensary Khair Muhammad Kartio,27.56294000000,67.87095060000,PPHI,Functional,World Bank,First Phase
+"150",Larkana,Kambar Shahdadkot,Kamber,Boohar,Government Dispensary Noor Muhammad Shaikh,27.58346000000,68.00694980000,PPHI,Functional,World Bank,First Phase
+"151",Larkana,Kambar Shahdadkot,Kamber,Jean Abro,Government Dispensary Baig Muhammad Sangah,27.56757000000,68.07070281000,PPHI,Functional,World Bank,First Phase
+"152",Larkana,Kambar Shahdadkot,Kamber,Kamber-3,Government Dispensary Chajjra,27.60093000000,68.01490310000,PPHI,Functional,World Bank,First Phase
+"153",Larkana,Kambar Shahdadkot,Kamber,Khairpur,Government Dispensary Dadar,27.48387000000,68.03813900000,PPHI,Functional,World Bank,First Phase
+"154",Larkana,Kambar Shahdadkot,Kamber,Rawati,Government Dispensary Ranwati,27.83683000000,68.13836830000,PPHI,Functional,World Bank,First Phase
+"155",Larkana,Kambar Shahdadkot,Mirokhan,Bahram,Government Dispensary Tharo Wadho,27.74002000000,68.08413070000,PPHI,Non Functional,World Bank,First Phase
+"156",Larkana,Kambar Shahdadkot,Mirokhan,Karira,Government Dispensary Daleel Buriro,27.65766000000,67.96397173000,PPHI,Functional,World Bank,First Phase
+"157",Larkana,Kambar Shahdadkot,Mirokhan,Karira,Government Dispensary Suhno Khan Khoso,27.71171000000,67.97726877000,PPHI,Functional,World Bank,First Phase
+"158",Larkana,Kambar Shahdadkot,Naseerabad,Dera,Government Dispensary Mirza Junejo Junejo,27.58031000000,68.00471410000,PPHI,Functional,World Bank,First Phase
+"160",Larkana,Kambar Shahdadkot,Shahdadkot,Aitbar Khan,Government Dispensary Dhing,27.85586000000,67.92477721000,PPHI,Functional,World Bank,First Phase
+"161",Larkana,Kambar Shahdadkot,Warah,Abad,Government Dispensary Kando,27.47748000000,67.81186435000,PPHI,Functional,World Bank,First Phase
+"162",Larkana,Kambar Shahdadkot,Warah,Mirpur,Government Dispensary Jahan Khan Marfani,27.43053000000,67.75873870000,PPHI,Non Functional,World Bank,First Phase
+"167",Larkana,Kashmore,Tangwani,Tangwani,Government Dispensary Shabeer abad,28.21971000000,68.90036300000,PPHI,Functional,World Bank,First Phase
+"169",Mirpurkhas,Tharparkar,Chachro,Chachro Rural,Government Dispensary Bharmal jo Goth,25.23159000000,70.27487500000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"239",Mirpurkhas,Mirpurkhas,Hussain Bux Mari,Khan,Government Dispensary Jalal Mari,25.35583000000,69.00559000000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"240",Mirpurkhas,Mirpurkhas,Hussain Bux Mari,Khan,Government Dispensary Sain Dad Mari,25.59848300000,69.01578800000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"241",Mirpurkhas,Mirpurkhas,Shujabad,Makhan Samoon,Government Dispensary. Seth Kishori Lal,25.36541700000,68.99003800000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"242",Mirpurkhas,Mirpurkhas,Sindhri,Phulahdiyoon,Government Dispensary. M. Saleem Pahore,25.67496000000,69.30084000000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"243",Mirpurkhas,Mirpurkhas,Sindhri,Vesro,Government Dispensary VILLAGE VEESRO,25.53836000000,69.09008200000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"244",Mirpurkhas,Mirpurkhas,Digri,Kangoro,Government Dispensary. M. Azeem Laghari,25.23825800000,69.08918700000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"245",Mirpurkhas,Mirpurkhas,Digri,Mir Fateh Khan,Government Dispensary. GUL MUHAMMAD ABRING DEH 182,25.13844600000,69.15562200000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"246",Mirpurkhas,Mirpurkhas,Digri,Mir Khuda Bux,Government Dispensary. Sher Khan Jarwar,25.01414600000,69.08335000000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"247",Mirpurkhas,Mirpurkhas,Digri,Pabban,Government Dispensary VILLAGE CHUDHRY SAFDAR DEH 151,25.17665000000,69.12330000000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"248",Mirpurkhas,Mirpurkhas,Digri,Pabban,Government Dispensary. 149/A KUMBHAR MOHALLA,25.21208200000,68.98713500000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"249",Mirpurkhas,Mirpurkhas,Digri,Soofan Shah,Government Dispensary. Amb Mori,25.09932900000,69.17738900000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"250",Mirpurkhas,Mirpurkhas,Digri,Mir Khuda Bux,Government Dispensary. 57 Mori,25.02795200000,69.17794600000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"251",Mirpurkhas,Mirpurkhas,Jhudo,Fazal Bhumbro,Government Dispensary. Abdul Rasheed Hoat,25.03003600000,69.33802900000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"252",Mirpurkhas,Mirpurkhas,Jhudo,Fazal Bhumbro,Government Dispensary. Denghano Gurgaiz,24.93561000000,69.45224100000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"253",Mirpurkhas,Mirpurkhas,Jhudo,Jhudo,Government Dispensary. Akbar Ali Giskori,24.97443000000,69.39309900000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"254",Mirpurkhas,Mirpurkhas,Kot Ghulam Mohd,Hashim Bhurgari,Government Dispensary. Yar Mohammad Bhurgari,25.36619500000,69.29124400000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"255",Mirpurkhas,Mirpurkhas,Kot Ghulam Mohd,Jawarisar,Government Dispensary. Imam Wah,25.33224000000,69.25459330000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"256",Mirpurkhas,Mirpurkhas,Kot Ghulam Mohd,KGM,Government Dispensary. Kachello Station,25.21069000000,69.18766800000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"257",Mirpurkhas,Mirpurkhas,Kot Ghulam Mohd,KGM,Government Dispensary. Mohajar Goth,25.28402400000,69.36019900000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"258",Mirpurkhas,Umerkot,Kunri,Bustan,Government Dispensary: Amir Sultan Chandio,25.15264000000,69.54547100000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"259",Mirpurkhas,Umerkot,Kunri,Kunri Memon,Government Dispensary: Sarmast Rind,25.13721000000,69.57195300000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"260",Mirpurkhas,Umerkot,Kunri,Manjkar,Government Dispensary: Manjhakar,25.16021000000,69.47768400000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"261",Mirpurkhas,Umerkot,Kunri,Nabisar,Government Dispensary: Kamal Khan Rind,25.03995000000,69.51962600000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"262",Mirpurkhas,Umerkot,Kunri,Samaro Road,Government Dispensary: Kazi Fateh Muhammad Kapri,25.15071000000,69.42413100000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"263",Mirpurkhas,Umerkot,Kunri,Bustan,Government Dispensary: Sher Khan Rind,25.11480000000,69.52138800000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"264",Mirpurkhas,Umerkot,Pithoro,Pithoro,Government Dispensary: Bachaband,25.46198000000,69.37404059000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"265",Mirpurkhas,Umerkot,Pithoro,Shadi Pali,Government Dispensary: Sher Khan Nohri,25.56545000000,69.30087697000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"266",Mirpurkhas,Umerkot,Pithoro,Shah Mardan Shah,Government Dispensary Mitho Rajar,25.48295000000,69.49939339000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"267",Mirpurkhas,Umerkot,Samaro,Padhrio,Government Dispensary: Rais Mirzo Khan Kapri,25.22386000000,69.48937900000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"268",Mirpurkhas,Umerkot,Samaro,Satriyoon,Government Dispensary: Ibrahim Sahanro,25.34707000000,69.48590700000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"269",Mirpurkhas,Umerkot,Samaro,Satriyoon,Government Dispensary: Mirzo Khan Khan Kalroo,25.34708000000,69.48590000000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"270",Mirpurkhas,Umerkot,Umerkot,Chore,Government Dispensary: Haveli Thakar,25.54147000000,69.75064400000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"271",Mirpurkhas,Umerkot,Umerkot,Chore,Government Dispensary: Sinohi,25.49958000000,69.81241000000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"272",Mirpurkhas,Umerkot,Umerkot,Dhoronaro,Government Dispensary: Bilawal Halepoto,25.46474000000,69.57506200000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"273",Mirpurkhas,Umerkot,Umerkot,Dhoronaro,Government Dispensary: Punhoon Khan Rajar,25.48189000000,69.56330800000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"274",Mirpurkhas,Umerkot,Umerkot,Fakir Abdullah,Government Dispensary: Cheel Band (Umer Sand Paro),25.20559000000,69.68575900000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"275",Mirpurkhas,Umerkot,Umerkot,Fakir Abdullah,Government Dispensary: Qadir Bux Panhwar,25.23562000000,69.67183670000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"276",Mirpurkhas,Umerkot,Umerkot,Gharibabad,Government Dispensary: Haji Ali Mohammad (Vehro Sharif),25.33545000000,69.73415500000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"278",Mirpurkhas,Umerkot,Umerkot,K.S Atta Muhammad,Government Dispensary: Eidal Mangrio,25.51796000000,69.65044600000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"279",Mirpurkhas,Umerkot,Umerkot,K.S Atta Muhammad,Government Dispensary: Haji Muhammad Baqa Palli,25.33110000000,69.59319100000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"280",Mirpurkhas,Umerkot,Umerkot,K.S Atta Muhammad,Government Dispensary: Soofi Faqir (New Dispensary),25.48957000000,69.55796400000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"281",Mirpurkhas,Umerkot,Umerkot,K.S Atta Muhammad,Government Dispensary: Wali Mohammad Thebo,25.33100000000,69.59323700000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"282",Mirpurkhas,Umerkot,Umerkot,Kaplore,Government Dispensary: Dildar Rahimoon,25.47076000000,70.23379900000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"283",Mirpurkhas,Umerkot,Umerkot,Kaplore,Government Dispensary: Jaman Jo Tar,25.31717000000,69.98150200000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"285",Mirpurkhas,Umerkot,Umerkot,Kaplore,Government Dispensary: Lakhji Ji Thakar,25.23940000000,70.27550300000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"286",Mirpurkhas,Umerkot,Umerkot,Kaplore,Government Dispensary: Pandhi Paro Hadakar,25.28865000000,70.12692800000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"287",Mirpurkhas,Umerkot,Umerkot,Khejrari,Government Dispensary: Bhadeli Thakar,25.35160000000,69.68074000000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"288",Mirpurkhas,Umerkot,Umerkot,Khokhrapar,Government Dispensary Paniyal Ji Dhani (Pandhi Ji Dhani),25.57044000000,70.16781100000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"289",Mirpurkhas,Umerkot,Umerkot,Khokhrapar,Government Dispensary: Haji Hussain Sindlani,25.58130000000,70.21654100000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"290",Mirpurkhas,Umerkot,Umerkot,Khokhrapar,Government Dispensary: Haji Imam Bux Soomro,25.64595000000,70.09264000000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"291",Mirpurkhas,Umerkot,Umerkot,Khokhrapar,Government Dispensary: Haji Nawab Nohri,25.52477000000,69.76303100000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"292",Mirpurkhas,Umerkot,Umerkot,Khokhrapar,Government Dispensary: Ismail Chachar New Chhore,25.67089000000,69.91810900000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"293",Mirpurkhas,Umerkot,Umerkot,Khokhrapar,Government Dispensary: Jalo Jo Chunro,25.60051000000,69.99578800000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"295",Mirpurkhas,Umerkot,Umerkot,Khokhrapar,"Government Dispensary: Seendhal Nohri Bhataro, Seendhalani Paro",25.66016000000,70.15779100000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"296",Mirpurkhas,Umerkot,Umerkot,Mir Wali M Talpur,Government Dispensary: Pandhi Chachar,25.27603000000,69.62620800000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"297",Mirpurkhas,Umerkot,Umerkot,Mir Wali M Talpur,Government Dispensary: Mithal Khan Lashari,25.30773000000,69.61355600000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"298",Mirpurkhas,Umerkot,Umerkot,Sabo,Government Dispensary: Abdul Wahid Soomro Noohiyoon,25.53422000000,69.71825100000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"299",Mirpurkhas,Umerkot,Umerkot,Sabo,Government Dispensary: Soomar Khan Chakar Khan,25.47638000000,69.67620500000,DOH,Functional,Islamic Dev: Bank,Second Phase
+"300",Mirpurkhas,Umerkot,Umerkot,Sabo,Government Dispensary: Surhani Solangi,25.45452000000,69.65576100000,DOH,Non Functional,Islamic Dev: Bank,Second Phase
+"301",Mirpurkhas,Mirpurkhas,Hussain Bux Mari,Ratanabad,Government Dispensary. Rattanabad,25.51696000000,68.95482000000,PPHI,Functional,Islamic Dev: Bank,Second Phase
+"302",Mirpurkhas,Mirpurkhas,Shujabad,Doulat Laghari,Government Dispensary. Mir Sher M. Talpur,25.51726700000,69.02280300000,PPHI,Functional,Islamic Dev: Bank,Second Phase
+"303",Mirpurkhas,Mirpurkhas,Sindhri,Kherao,Government Dispensary. M. Sharif Rind,25.59898500000,69.17343500000,PPHI,Functional,Islamic Dev: Bank,Second Phase
+"304",Mirpurkhas,Mirpurkhas,Jhudo,Ahore,Government Dispensary Ahore,25.00411910000,69.43074900000,PPHI,Functional,Islamic Dev: Bank,Second Phase
+"309",Shaheed Benazirabad,Shaheed Benazirabad,Daur,Bucheri,Government Dispensary Faqueer Rasool Bux Zardari,26.33940000000,68.34914900000,DOH,Functional,World Bank,First Phase
+"310",Shaheed Benazirabad,Shaheed Benazirabad,Daur,Gupchani,Government Dispensary Nawaz Dahri,26.16669000000,68.44321600000,DOH,Functional,World Bank,First Phase
+"311",Shaheed Benazirabad,Shaheed Benazirabad,Daur,Gupchani,Government Dispensary Shakal Jamali,26.16840000000,68.47493000000,DOH,Functional,World Bank,First Phase
+"312",Shaheed Benazirabad,Shaheed Benazirabad,Daur,Ismail Brohi,Government Dispensary Major Yar Mohammad,26.27398000000,68.55512700000,DOH,Functional,World Bank,First Phase
+"313",Shaheed Benazirabad,Shaheed Benazirabad,Daur,Jam Sahib,Government Dispensary Abass Kerio,26.23943000000,68.59458100000,DOH,Functional,World Bank,First Phase
+"314",Shaheed Benazirabad,Shaheed Benazirabad,Daur,Jam Sahib,Government Dispensary Allah Dad Zardari,26.21662000000,68.64233800000,DOH,Functional,World Bank,First Phase
+"315",Shaheed Benazirabad,Shaheed Benazirabad,Daur,Jamal Shah,Government Dispensary Dorai Mahar,26.34800000000,68.20496400000,DOH,Functional,World Bank,First Phase
+"316",Shaheed Benazirabad,Shaheed Benazirabad,Daur,Jhooro Shar,Government Dispensary Mund  jamrao,26.44208000000,68.85865300000,DOH,Functional,World Bank,First Phase
+"317",Shaheed Benazirabad,Shaheed Benazirabad,Daur,Suhello,Government Dispensary Muhbat Sethar,26.42922000000,68.48193800000,DOH,Functional,World Bank,First Phase
+"318",Shaheed Benazirabad,Shaheed Benazirabad,Kazi Ahmed,Manharo,Government Dispensary Chutto Khan Jamali,26.56570000000,68.18648100000,DOH,Functional,World Bank,First Phase
+"319",Shaheed Benazirabad,Shaheed Benazirabad,Kazi Ahmed,Manharo,Government Dispensary Manhoro,26.59209000000,68.17580600000,DOH,Functional,World Bank,First Phase
+"320",Shaheed Benazirabad,Shaheed Benazirabad,Kazi Ahmed,Shahpur Jahnia,Government Dispensary Dodo Bughio,26.65061600000,67.98075400000,DOH,Functional,World Bank,First Phase
+"321",Shaheed Benazirabad,Shaheed Benazirabad,Kazi Ahmed,Thatt,Government Dispensary Totti,26.32450000000,68.00641600000,DOH,Functional,World Bank,First Phase
+"322",Shaheed Benazirabad,Shaheed Benazirabad,Nawabshah,Khair Shah,Government Dispensary Baloo Ja Quba,26.32127000000,68.34665900000,DOH,Functional,World Bank,First Phase
+"323",Shaheed Benazirabad,Shaheed Benazirabad,Nawabshah,Khair Shah,Government Dispensary Wali Muhammad Zardari,26.22917000000,68.31345600000,DOH,Functional,World Bank,First Phase
+"324",Shaheed Benazirabad,Shaheed Benazirabad,Nawabshah,U.C. 2 Nawabshah,Government Dispensary Faiz Muhammad Bhangwar,26.23096000000,68.40141500000,DOH,Functional,World Bank,First Phase
+"325",Shaheed Benazirabad,Shaheed Benazirabad,Sakrand,Bhoora,Government Dispensary Golo Dahri,26.22389000000,68.14437000000,DOH,Functional,World Bank,First Phase
+"326",Shaheed Benazirabad,Shaheed Benazirabad,Sakrand,Khadhar,Government Dispensary Kalay Bux Rind,26.17510000000,68.34248800000,DOH,Functional,World Bank,First Phase
+"327",Shaheed Benazirabad,Naushahro Feroze,Bhiria City,Dalipota,Government Dispensary Dalipota,26.91290000000,68.03380000000,DOH,Functional,World Bank,First Phase
+"328",Shaheed Benazirabad,Naushahro Feroze,Bhiria City,Qasim Khahi,Government Dispensary Allah Dito Bhanbhro,26.87340000000,68.16070000000,DOH,Functional,World Bank,First Phase
+"329",Shaheed Benazirabad,Naushahro Feroze,Kandiaro,Kamaldero,Government Dispensary Hamahoo,27.12350000000,68.19110000000,DOH,Functional,World Bank,First Phase
+"330",Shaheed Benazirabad,Naushahro Feroze,Mehrab Pur,Halani,Government Dispensary Khaimtio Mahaser,27.12840000000,68.27330000000,DOH,Functional,World Bank,First Phase
+"331",Shaheed Benazirabad,Naushahro Feroze,Mehrab Pur,Mehrab Pur-II,Government Dispensary New Town M. Pur,27.09794000000,68.42560000000,DOH,Functional,World Bank,First Phase
+"332",Shaheed Benazirabad,Naushahro Feroze,Naushahro Feroze,Abran,Government Dispensary Abran,26.83285000000,68.02143800000,DOH,Functional,World Bank,First Phase
+"333",Shaheed Benazirabad,Naushahro Feroze,Naushahro Feroze,Chanari,Government Dispensary Molvi Ab: Rehman,26.67900000000,68.28280000000,DOH,Functional,World Bank,First Phase
+"334",Shaheed Benazirabad,Naushahro Feroze,Naushahro Feroze,Derbelo,Government Dispensary New Tagar,26.96950000000,68.09410000000,DOH,Functional,World Bank,First Phase
+"335",Shaheed Benazirabad,Naushahro Feroze,Naushahro Feroze,-do-,Government Dispensary Essa Khan Mari,26.83023000000,68.12980000000,DOH,Functional,World Bank,First Phase
+"336",Shaheed Benazirabad,Naushahro Feroze,Naushahro Feroze,Kehkat,Government Dispensary Khamiso Khan Dahri,26.56490000000,68.09072000000,DOH,Non Functional,World Bank,First Phase
+"337",Shaheed Benazirabad,Naushahro Feroze,Naushahro Feroze,Kehkat,Government Dispensary Lundo,26.91293000000,68.03385000000,DOH,Functional,World Bank,First Phase
+"338",Shaheed Benazirabad,Naushahro Feroze,Naushahro Feroze,Lalia,Government Dispensary Hajan Shah,26.74890000000,67.90160000000,DOH,Functional,World Bank,First Phase
+"339",Shaheed Benazirabad,Naushahro Feroze,Naushahro Feroze,M.Dero Jatoi,Government Dispensary Mureed Solangi,27.16530000000,68.19450000000,DOH,Functional,World Bank,First Phase
+"340",Shaheed Benazirabad,Naushahro Feroze,Naushahro Feroze,Manaheen,Government Dispensary Rahib Khan Keerio,26.68910000000,68.02083000000,DOH,Functional,World Bank,First Phase
+"341",Shaheed Benazirabad,Naushahro Feroze,Naushahro Feroze,Maser ji Wah,Government Dispensary Jehan Khan Jatoi,26.66674000000,68.16278500000,DOH,Functional,World Bank,First Phase
+"342",Shaheed Benazirabad,Sanghar,Khipro,Bilwal Hingorjo,Government Dispensary Amin Durs,25.74513000000,69.47615000000,PPHI,Functional,World Bank,First Phase
+"343",Shaheed Benazirabad,Sanghar,Khipro,Kamil Hingoro,Government Dispensary Muhammad Bux Rajar,25.94721000000,69.34322000000,PPHI,Functional,World Bank,First Phase
+"344",Shaheed Benazirabad,Sanghar,Khipro,Kamil Hingoro,Government Dispensary Saeedaoo,26.07346000000,70.00922000000,PPHI,Functional,World Bank,First Phase
+"345",Shaheed Benazirabad,Sanghar,Khipro,Qazi Faiz,Government Dispensary Adam Bhambro,25.89724000000,69.35884000000,PPHI,Functional,World Bank,First Phase
+"346",Shaheed Benazirabad,Sanghar,Khipro,Roonjho,Government Dispensary Abdullah Shah,25.64344000000,69.49056000000,PPHI,Functional,World Bank,First Phase
+"347",Shaheed Benazirabad,Sanghar,Khipro,Bilwal Hingorjo,Government Dispensary Jadam Durs,25.78618000000,69.45927000000,PPHI,Functional,World Bank,First Phase
+"348",Shaheed Benazirabad,Sanghar,Sanghar,Kanhar,Government Dispensary Karim Dad Junejo,26.05475000000,69.10358000000,PPHI,Functional,World Bank,First Phase
+"349",Shaheed Benazirabad,Sanghar,Sinjhoro,Jhol,Government Dispensary Ghundan,25.96880000000,68.89491000000,PPHI,Functional,World Bank,First Phase
+"350",Shaheed Benazirabad,Sanghar,Jam Nawaz Ali,Hot Wassan,Government Dispensary Dalore Mori,25.84597000000,68.79334118000,PPHI,Functional,World Bank,First Phase
+"351",Shaheed Benazirabad,Sanghar,Jam Nawaz Ali,Jam Nawaz Ali,Government Dispensary Mehrab Liskani,25.80180000000,68.96561087000,PPHI,Functional,World Bank,First Phase
+"352",Shaheed Benazirabad,Sanghar,Jam Nawaz Ali,Peru Faqir Shoro,Government Dispensary Sachedino Warryah,25.78826000000,68.69366285000,PPHI,Functional,World Bank,First Phase
+"353",Shaheed Benazirabad,Sanghar,Khipro,Soomer Faqir Hingoro,Government Dispensary Soomar Faqeer Hingoro,25.94595000000,68.58894663000,PPHI,Functional,World Bank,First Phase
+"354",Shaheed Benazirabad,Shaheed Benazirabad,Daur,Ghullam Hyder Shah,Government Dispensary Soomar Korai,26.51296000000,68.37357700000,PPHI,Functional,World Bank,First Phase
+"355",Shaheed Benazirabad,Shaheed Benazirabad,Daur,Jhooro Shar,Government Dispensary Jhooro Shar,26.31401000000,68.65382300000,PPHI,Functional,World Bank,First Phase
+"356",Shaheed Benazirabad,Shaheed Benazirabad,Sakrand,Guhram Marri,Government Dispensary Fatoohal Zardari,26.24827000000,68.11847900000,PPHI,Functional,World Bank,First Phase
+"357",Sukkur,Khairpur,Faiz Ganj,Kandyari,Government Dispensary Mehar Ali Mehtab,26.92471203000,68.52321925000,DOH,Non Functional,World Bank,First Phase
+"358",Sukkur,Khairpur,Faiz Ganj,Kot Laloo,Government Dispensary Jajh Regulator,26.69517799000,68.31196631000,DOH,Non Functional,World Bank,First Phase
+"359",Sukkur,Khairpur,Faiz Ganj,Raza Abad,Government Dispensary Rajper Abad,26.72833166000,68.49914482000,DOH,Non Functional,World Bank,First Phase
+"360",Sukkur,Khairpur,Gambat,Ripri,Government Dispensary Baharo,27.51459751000,68.46394169000,DOH,Functional,World Bank,First Phase
+"361",Sukkur,Khairpur,Khairpur,Babarlloi,Government Dispensary Kabeer Khan Jatoi,27.64531351000,68.83105873000,DOH,Non Functional,World Bank,First Phase
+"362",Sukkur,Khairpur,Khairpur,Bukhari,Government Dispensary Dabar,27.52379499000,68.76532534000,DOH,Functional,World Bank,First Phase
+"363",Sukkur,Khairpur,Khairpur,Garhi Mori,Government Dispensary Qutibuddin Phulpoto,27.62401067000,68.72858100000,DOH,Functional,World Bank,First Phase
+"364",Sukkur,Khairpur,Khairpur,Machyoon Wada,Government Dispensary Ghaffar Shah,27.60285187000,68.64847565000,DOH,Non Functional,World Bank,First Phase
+"365",Sukkur,Khairpur,Khairpur,Mehar Ali,Government Dispensary Autari (New),27.57033384000,68.73340345000,DOH,Non Functional,World Bank,First Phase
+"366",Sukkur,Khairpur,Khairpur,Mehar Ali,Government Dispensary Mehar Ali,27.56852270000,68.73653195000,DOH,Non Functional,World Bank,First Phase
+"367",Sukkur,Khairpur,Khairpur,Pir bux Gaho,Government Dispensary Khaliq Dino Aradin,26.79665470000,68.98468810000,DOH,Non Functional,World Bank,First Phase
+"368",Sukkur,Khairpur,Khairpur,Tando Masti,Government Dispensary Ghulam Nabi Phulpoto at village Pipri,27.37069500000,68.55169300000,DOH,Functional,World Bank,First Phase
+"369",Sukkur,Khairpur,Kotdeji,Naseer Fakir Jalalani,Government Dispensary Malheer Pato,27.19584937000,68.66854266000,DOH,Functional,World Bank,First Phase
+"370",Sukkur,Khairpur,Nara,Khenwari,Government Dispensary Inam Ali Shar,26.66074630000,68.92907907000,DOH,Non Functional,World Bank,First Phase
+"371",Sukkur,Khairpur,Nara,Kot Jubo,Government Dispensary Kot Jubo Taluka Nara,26.56497472000,69.57429768000,DOH,Functional,World Bank,First Phase
+"372",Sukkur,Khairpur,Nara,Pir Bux Gaho,Government Dispensary Fateh Muhammad Aradin,26.69947600000,68.90934500000,DOH,Non Functional,World Bank,First Phase
+"373",Sukkur,Khairpur,Thari Mir Wah,Mandan,Government Dispensary Muhammad Soomar Rajar,27.14997930000,68.64776389000,DOH,Non Functional,World Bank,First Phase
+"374",Sukkur,Khairpur,Thari Mir Wah,Baqi Khan,Government Dispensary Makhan Khan Lashari,27.06142243000,68.54475851000,DOH,Non Functional,World Bank,First Phase
+"377",Sukkur,Sukkur,Pano Akil,Junas,Government Dispensary KHAIRO INDHAR,27.02351000000,67.99605300000,DOH,Functional,World Bank,First Phase
+"381",Sukkur,Sukkur,Panoakil,Mubarakpur,Government Dispensary ROOPAHAR.,26.40767000000,67.76079200000,DOH,Functional,World Bank,First Phase
+"382",Sukkur,Sukkur,Salehpat,Lal Jurio,Government Dispensary Ali Murad Shambani RD-212,26.53649000000,67.77527000000,DOH,Functional,World Bank,First Phase
+"385",Sukkur,Sukkur,Salehpat,Tarai,Government Dispensary Samo Khan Bhambro,26.96598000000,67.68962100000,DOH,Functional,World Bank,First Phase
+"386",Sukkur,Sukkur,Salehpat,Tarai,Government Dispensary Warro Bhambaro,26.49311000000,67.83932000000,DOH,Functional,World Bank,First Phase
+"387",Sukkur,Ghotki,Ghotki,Saleh Mahar,Government Dispensary Village Darri,27.87975000000,69.26330616000,DOH,Functional,World Bank,First Phase
+"388",Sukkur,Ghotki,Mirpur Mathelo,Yaro Lund,Government Dispensary Khalidabad,27.80804000000,69.57873239000,DOH,Functional,World Bank,First Phase
+"389",Sukkur,Khairpur,Faiz Ganj,Karoundi,Government Dispensary Karoundi,26.90371786000,68.40586972000,PPHI,Functional,World Bank,First Phase
+"390",Sukkur,Khairpur,Sobho Dero,Gadeji,Government Dispensary Setharja Bala,27.23861372000,68.44788930000,PPHI,Functional,World Bank,First Phase
+"391",Sukkur,Khairpur,Kingri,Kolab Jial,Government Dispensary Lal Bux Kandharo,27.45610442000,68.54328261000,PPHI,Functional,World Bank,First Phase
+"392",Sukkur,Khairpur,Nara,Pharraro,Government Dispensary Pharraro,27.20923955000,68.98732785000,PPHI,Functional,World Bank,First Phase
