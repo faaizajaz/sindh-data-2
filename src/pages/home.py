@@ -53,6 +53,7 @@ def serve_map():
     return html.Div(
         [
             dcc.Store(id="selected-district-memory"),
+            dcc.Store(id="selected-districts-df"),
             dcc.Dropdown(df.District.unique(), id="district-dropdown", multi=True),
             dcc.Graph(figure=fig, id="main-map"),
             # html.Div(id="report-memory-district"),
@@ -111,23 +112,23 @@ def set_districts_memory(selected_districts):
 
 
 @callback(
-    Output("main-map", "figure"),
+    Output("main-map", "figure", allow_duplicate=True),
+    Output("selected-districts-df", "data"),
     Input("selected-district-memory", "data"),
+    prevent_initial_call="initial_duplicate",
 )
 def filter_selected_districts_memory(selected_districts):
     if selected_districts is None:
         raise PreventUpdate
 
     selected_districts_df = pd.DataFrame()
-    print(selected_districts)
+
     # if isinstance(selected_districts, str):
     #     selected_districts_df = df[df["District"]] == str(selected_districts)
     # else:
     selected_districts_mask = df["District"].isin(selected_districts)
 
     selected_districts_df = df[selected_districts_mask]
-
-    print(selected_districts_df)
 
     fig = px.scatter_mapbox(
         selected_districts_df,
@@ -143,4 +144,4 @@ def filter_selected_districts_memory(selected_districts):
         margin=dict(l=30, r=30, t=30, b=30),
     )
 
-    return fig
+    return fig, selected_districts_df.to_dict("records")
