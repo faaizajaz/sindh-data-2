@@ -35,7 +35,10 @@ def testthis(df):
     x = pd.DataFrame.from_dict(df)
 
     x["new_bin"] = x.apply(_calc_binary, axis=1)
+
     x["new_bin"] = x["new_bin"].astype(str)
+    x["bin_parsed"] = x.apply(_parse_binary, axis=1)
+
     print(x)
     fig = px.scatter_mapbox(
         x,
@@ -43,7 +46,7 @@ def testthis(df):
         lon=x.Longitude,
         # width=700,
         height=750,
-        color=x.new_bin,
+        color=x.bin_parsed,
         color_discrete_sequence=px.colors.qualitative.Plotly,
     )
 
@@ -69,4 +72,19 @@ def _calc_binary(row):
     if row["school_uid"] is not None:
         bin_num = bin_num + 0b0001
 
-    return bin_num
+    # return fixed length 4 bit number
+    return f"{bin_num:04b}"
+
+
+def _parse_binary(row):
+    result = []
+    outcomes = ["infra", "scheme", "disp", "school"]
+
+    for i in range(len(row["new_bin"])):
+        if row["new_bin"][i] == "1":
+            result.append(outcomes[i])
+
+    if not result:
+        return None
+
+    return " and ".join(result)
