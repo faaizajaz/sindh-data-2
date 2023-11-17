@@ -23,7 +23,7 @@ def serve_map():
         lat=convergence_df.Latitude,
         lon=convergence_df.Longitude,
         # width=700,
-        height=750,
+        height=850,
         custom_data=[
             convergence_df.Settlement,
             convergence_df.SMP,
@@ -115,7 +115,7 @@ def filter_selected_districts_memory(selected_districts):
         lat=selected_districts_df.Latitude,
         lon=selected_districts_df.Longitude,
         # width=700,
-        height=750,
+        height=850,
         custom_data=[
             selected_districts_df.Settlement,
             selected_districts_df.SMP,

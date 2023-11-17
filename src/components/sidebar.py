@@ -49,7 +49,7 @@ def sidebar_data_update(selected_districts_df, data_selection):
             lat=x.Latitude,
             lon=x.Longitude,
             # width=700,
-            height=750,
+            height=850,
             color=x.bin_combination_parsed,
             color_discrete_sequence=px.colors.qualitative.Plotly,
             custom_data=[
@@ -70,7 +70,7 @@ def sidebar_data_update(selected_districts_df, data_selection):
             lat=x.Latitude,
             lon=x.Longitude,
             # width=700,
-            height=750,
+            height=850,
             color=_return_single_data_selection(x, data_selection),
             color_discrete_sequence=px.colors.qualitative.Plotly,
             custom_data=[

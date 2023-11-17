@@ -110,3 +110,6 @@ data/.~lock.select-data.csv#
 *.sublime-workspace
 
 gis/
+gis
+gis
+gis/basemaps/Adminbdy Shapefile
