@@ -89,6 +89,7 @@ def sidebar_data_update(selected_districts_df, data_selection):
         mapbox_style="mapbox://styles/faaizajaz/clo2vkv5j00i801r253694dj0",
         mapbox_accesstoken=MAPBOX_TOKEN,
         margin=dict(l=30, r=30, t=30, b=30),
+        legend=dict(yanchor="top", y=0.99, xanchor="right", x=0.99),
     )
 
     # print(x)

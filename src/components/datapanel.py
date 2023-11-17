@@ -19,7 +19,7 @@ def serve_datapanel():
     return html.Div(
         id="datapanel",
         children=[
-            html.Div(id="datapanel-data"),
+            html.H5("SFERP Infrastructure"),
             dash_table.DataTable(
                 # data=EDUCATION_DATA.to_dict(orient="records"),
                 # columns=[{"name": i, "id": i} for i in EDUCATION_DATA.columns],
@@ -28,6 +28,7 @@ def serve_datapanel():
                 page_size=5,
                 style_table={"overflowX": "auto"},
             ),
+            html.H5("SELECT Schools"),
             dash_table.DataTable(
                 # data=EDUCATION_DATA.to_dict(orient="records"),
                 # columns=[{"name": i, "id": i} for i in EDUCATION_DATA.columns],
@@ -36,6 +37,7 @@ def serve_datapanel():
                 page_size=5,
                 style_table={"overflowX": "auto"},
             ),
+            html.H5("SFERP Schemes"),
             dash_table.DataTable(
                 # data=EDUCATION_DATA.to_dict(orient="records"),
                 # columns=[{"name": i, "id": i} for i in EDUCATION_DATA.columns],
@@ -44,6 +46,7 @@ def serve_datapanel():
                 page_size=5,
                 style_table={"overflowX": "auto"},
             ),
+            html.H5("SHP Dispensaries"),
             dash_table.DataTable(
                 # data=EDUCATION_DATA.to_dict(orient="records"),
                 # columns=[{"name": i, "id": i} for i in EDUCATION_DATA.columns],
@@ -52,6 +55,7 @@ def serve_datapanel():
                 page_size=5,
                 style_table={"overflowX": "auto"},
             ),
+            html.H5("Villages in 2km"),
             dash_table.DataTable(
                 # data=EDUCATION_DATA.to_dict(orient="records"),
                 # columns=[{"name": i, "id": i} for i in EDUCATION_DATA.columns],
@@ -65,7 +69,6 @@ def serve_datapanel():
 
 
 @callback(
-    Output("datapanel-data", "children"),
     Output("infra-table", "data"),
     Output("schools-table", "data"),
     Output("schemes-table", "data"),
@@ -74,8 +77,8 @@ def serve_datapanel():
     Input("selected-village-memory", "data"),
     Input("selected-districts-df", "data"),
 )
-def testfunc(village, df):
-    selected_districts_df = pd.DataFrame.from_dict(df)
+def populate_datapanel(village, df):
+    # selected_districts_df = pd.DataFrame.from_dict(df)
     selected_village_data = village["points"][0]["customdata"]
     # print(selected_village_data)
     village_name = selected_village_data[0]
@@ -86,26 +89,28 @@ def testfunc(village, df):
     village_disp = _parse_uid_group(selected_village_data[5])
     village_2km_vill = _parse_uid_group(selected_village_data[6])
 
-    # infra_data = infra_df[infra_df[]]
-    # print(village_2km_vill)
     settlements_df["UID"] = settlements_df["UID"].astype(str)
-    print(_find_in_df(settlements_df, village_2km_vill, "UID"))
+    # 2k_vill_df = _find_in_df(settlements_df, village_2km_vill, "UID")
+    near_vill_df = _find_in_df(settlements_df, village_2km_vill, "UID")
 
     infra_df["UID"] = infra_df["UID"].astype(str)
-    print(_find_in_df(infra_df, village_infra, "UID"))
+    near_infra_df = _find_in_df(infra_df, village_infra, "UID")
 
     schemes_df["UID"] = schemes_df["UID"].astype(str)
-    print(_find_in_df(schemes_df, village_schemes, "UID"))
+    near_schemes_df = _find_in_df(schemes_df, village_schemes, "UID")
 
     schools_df["UID"] = schools_df["UID"].astype(str)
-    print(_find_in_df(schools_df, village_schools, "UID"))
+    near_schools_df = _find_in_df(schools_df, village_schools, "UID")
 
-    dispensaries_df["UID"] = dispensaries_df["UID"].astype(str)
-    print(_find_in_df(dispensaries_df, village_disp, "S_No"))
+    dispensaries_df["S_No"] = dispensaries_df["S_No"].astype(str)
+    near_disp_df = _find_in_df(dispensaries_df, village_disp, "S_No")
 
     return (
-        str(village),
-        village_infra,
+        near_infra_df.to_dict("records"),
+        near_schools_df.to_dict("records"),
+        near_schemes_df.to_dict("records"),
+        near_disp_df.to_dict("records"),
+        near_vill_df.to_dict("records"),
     )
 
 
