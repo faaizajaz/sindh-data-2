@@ -40,7 +40,13 @@ def serve_map():
         mapbox_style="mapbox://styles/faaizajaz/clo2vkv5j00i801r253694dj0",
         mapbox_accesstoken=MAPBOX_TOKEN,
         margin=dict(l=30, r=30, t=30, b=30),
-        legend=dict(yanchor="top", y=0.99, xanchor="right", x=0.99)
+        legend=dict(
+            yanchor="top",
+            y=0.99,
+            xanchor="right",
+            x=0.99,
+            bgcolor="rgba(246, 246, 246, 1)",
+        )
         # mapbox_layers=[
         #     {
         #         "below": "traces",
@@ -132,7 +138,13 @@ def filter_selected_districts_memory(selected_districts):
         mapbox_style="mapbox://styles/faaizajaz/clo2vkv5j00i801r253694dj0",
         mapbox_accesstoken=MAPBOX_TOKEN,
         margin=dict(l=30, r=30, t=30, b=30),
-        legend=dict(yanchor="top", y=0.99, xanchor="right", x=0.99),
+        legend=dict(
+            yanchor="top",
+            y=0.99,
+            xanchor="right",
+            x=0.99,
+            bgcolor="rgba(246, 246, 246, 1)",
+        ),
     )
 
     return fig, selected_districts_df.to_dict("records")
