@@ -9,26 +9,31 @@ from dash.dependencies import Input, Output
 from dash.exceptions import PreventUpdate
 from utils.settings import MAPBOX_TOKEN
 
-df = pd.read_csv("./src/data/convergence.csv", low_memory=False)
+convergence_df = pd.read_csv("./src/data/convergence.csv", low_memory=False)
+# dispensaries_df = pd.read_csv("./src/data/dispensaries.csv", low_memory=False)
+# infra_df = pd.read_csv("./src/data/infra-data.csv", low_memory=False)
+# schemes_df = pd.read_csv("./src/data/schemes-data.csv", low_memory=False)
+# schools_df = pd.read_csv("./src/data/schools-data.csv", low_memory=False)
+# settlements_df = pd.read_csv("./src/data/settlements-master-data.csv", low_memory=False)
 
 
 def serve_map():
     fig = px.scatter_mapbox(
-        df,
-        lat=df.Latitude,
-        lon=df.Longitude,
+        convergence_df,
+        lat=convergence_df.Latitude,
+        lon=convergence_df.Longitude,
         # width=700,
         height=750,
         custom_data=[
-            df.Settlement,
-            df.SMP,
-            df.infra_uid,
-            df.school_uid,
-            df.scheme_uid,
-            df.disp_uid,
-            df.vill_2km_u,
+            convergence_df.Settlement,
+            convergence_df.SMP,
+            convergence_df.infra_uid,
+            convergence_df.school_uid,
+            convergence_df.scheme_uid,
+            convergence_df.disp_uid,
+            convergence_df.vill_2km_u,
         ],
-        text=df["Settlement"],
+        text=convergence_df["Settlement"],
     )
 
     fig.update_layout(
@@ -48,16 +53,28 @@ def serve_map():
     return html.Div(
         [
             dcc.Store(id="selected-district-memory"),
+            dcc.Store(id="dispensaries-df-memory"),
+            dcc.Store(id="infra-df-memory"),
+            dcc.Store(id="schemes-df-memory"),
+            dcc.Store(id="schools-df-memory"),
+            dcc.Store(id="settlements-df-memory"),
             dcc.Store(id="selected-districts-df"),
-            dcc.Dropdown(df.District.unique(), id="district-dropdown", multi=True),
+            dcc.Dropdown(
+                convergence_df.District.unique(), id="district-dropdown", multi=True
+            ),
             dcc.Graph(figure=fig, id="main-map"),
-            html.Div(id="report-selected-point"),
         ]
     )
 
 
 @callback(
-    [Output("selected-district-memory", "data")], Input("district-dropdown", "value")
+    [Output("selected-district-memory", "data")],
+    # Output("dispensaries-df-memory", "data"),
+    # Output("infra-df-memory", "data"),
+    # Output("schemes-df-memory", "data"),
+    # Output("schools-df-memory", "data"),
+    # Output("settlements-df-memory", "data"),
+    Input("district-dropdown", "value"),
 )
 def set_districts_memory(selected_districts):
     if selected_districts is None:
@@ -66,7 +83,14 @@ def set_districts_memory(selected_districts):
     for d in selected_districts:
         sd.append(d)
 
-    return [sd]
+    return (
+        [sd]
+        # dispensaries_df.to_dict("records"),
+        # infra_df.to_dict("records"),
+        # schemes_df.to_dict("records"),
+        # schools_df.to_dict("records"),
+        # settlements_df.to_dict("records"),
+    )
 
 
 @callback(
@@ -81,9 +105,9 @@ def filter_selected_districts_memory(selected_districts):
 
     selected_districts_df = pd.DataFrame()
 
-    selected_districts_mask = df["District"].isin(selected_districts)
+    selected_districts_mask = convergence_df["District"].isin(selected_districts)
 
-    selected_districts_df = df[selected_districts_mask]
+    selected_districts_df = convergence_df[selected_districts_mask]
 
     fig = px.scatter_mapbox(
         selected_districts_df,

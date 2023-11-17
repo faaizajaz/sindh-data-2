@@ -5,6 +5,7 @@ import dash_bootstrap_components as dbc
 import geopandas
 import pandas as pd
 import plotly.express as px
+from components.datapanel import serve_datapanel
 from components.sidebar import serve_sidebar
 from dash import html
 from flask import Flask
@@ -37,11 +38,11 @@ def serve_layout():
                     # Main content
                     dbc.Col(
                         children=[serve_map()],
-                        width=9,
+                        width=8,
                     ),
                     dbc.Col(
-                        children=[html.Div("Rightbar")],
-                        width=2,
+                        children=[serve_datapanel()],
+                        width=3,
                     ),
                 ]
             ),

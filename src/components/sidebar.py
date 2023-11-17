@@ -14,12 +14,12 @@ def serve_sidebar():
         id="sidebar",
         children=[
             dcc.Store(id="selected-parameters-memory"),
+            dcc.Store(id="selected-village-memory"),
             html.H5("Select data"),
             dcc.Checklist(
                 id="data-selection",
                 options=["SFERP Infra", "SFERP Livelihood", "Dispensaries", "Schools"],
             ),
-            html.Div(id="test-data"),
         ],
     )
 
@@ -43,7 +43,7 @@ def sidebar_data_update(selected_districts_df, data_selection):
     x["bin_combination_parsed"] = x.apply(_parse_binary, axis=1, args=(data_selection,))
     # print(data_selection)
 
-    if len(data_selection) >> 1:
+    if len(data_selection) >> 1 or data_selection is None:
         fig = px.scatter_mapbox(
             x,
             lat=x.Latitude,
@@ -95,10 +95,12 @@ def sidebar_data_update(selected_districts_df, data_selection):
     return fig, data_selection
 
 
-@callback(Output("report-selected-point", "children"), Input("main-map", "clickData"))
-def test(selected):
-    print(selected)
-    return html.Div(str(selected))
+@callback(
+    Output("selected-village-memory", "data"),
+    Input("main-map", "clickData"),
+)
+def handle_point_selection(selected):
+    return selected
 
 
 def _calc_binary(row, data_selection):
@@ -153,16 +155,12 @@ def _parse_binary(row, data_selection):
 
 
 def _return_single_data_selection(df, data_selection):
-    if data_selection[0] == "SFERP Infra":
-        return df.infra_uid
-    if data_selection[0] == "SFERP Livelihood":
-        return df.scheme_uid
-    if data_selection[0] == "Dispensaries":
-        return df.disp_uid
-    if data_selection[0] == "Schools":
-        return df.school_uid
-
-
-def _parse_uid_group(uid_group):
-    separated_group = uid_group.split("-")
-    return separated_group
+    if len(data_selection) > 0:
+        if data_selection[0] == "SFERP Infra":
+            return df.infra_uid
+        if data_selection[0] == "SFERP Livelihood":
+            return df.scheme_uid
+        if data_selection[0] == "Dispensaries":
+            return df.disp_uid
+        if data_selection[0] == "Schools":
+            return df.school_uid
