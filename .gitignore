@@ -108,3 +108,5 @@ data/.~lock.select-data.csv#
 
 *.sublime-project
 *.sublime-workspace
+
+gis/
