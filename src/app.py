@@ -32,12 +32,16 @@ def serve_layout():
                     # Left Sidebar
                     dbc.Col(
                         children=[serve_sidebar()],
-                        width=2,
+                        width=1,
                     ),
                     # Main content
                     dbc.Col(
                         children=[serve_map()],
-                        width=10,
+                        width=9,
+                    ),
+                    dbc.Col(
+                        children=[html.Div("Rightbar")],
+                        width=2,
                     ),
                 ]
             ),

@@ -1,15 +1,12 @@
 import json
 from collections import deque
 
-import geopandas as gpd
 import pandas as pd
 import plotly.express as px
 from dash import callback, dcc, html
-from dash.dcc.Store import Store
 from dash.dependencies import Input, Output
 from dash.exceptions import PreventUpdate
 from utils.settings import MAPBOX_TOKEN
-from werkzeug import datastructures
 
 
 def serve_sidebar():
@@ -37,6 +34,7 @@ def serve_sidebar():
 def sidebar_data_update(selected_districts_df, data_selection):
     if selected_districts_df is None:
         raise PreventUpdate
+
     x = pd.DataFrame.from_dict(selected_districts_df)
 
     x["bin_combination"] = x.apply(_calc_binary, axis=1, args=(data_selection,))
@@ -45,16 +43,47 @@ def sidebar_data_update(selected_districts_df, data_selection):
     x["bin_combination_parsed"] = x.apply(_parse_binary, axis=1, args=(data_selection,))
     # print(data_selection)
 
-    # print(x)
-    fig = px.scatter_mapbox(
-        x,
-        lat=x.Latitude,
-        lon=x.Longitude,
-        # width=700,
-        height=750,
-        color=x.bin_combination_parsed,
-        color_discrete_sequence=px.colors.qualitative.Plotly,
-    )
+    if len(data_selection) >> 1:
+        fig = px.scatter_mapbox(
+            x,
+            lat=x.Latitude,
+            lon=x.Longitude,
+            # width=700,
+            height=750,
+            color=x.bin_combination_parsed,
+            color_discrete_sequence=px.colors.qualitative.Plotly,
+            custom_data=[
+                x.Settlement,
+                x.SMP,
+                x.infra_uid,
+                x.school_uid,
+                x.scheme_uid,
+                x.disp_uid,
+                x.vill_2km_u,
+            ],
+            text=x["Settlement"],
+        )
+
+    else:
+        fig = px.scatter_mapbox(
+            x,
+            lat=x.Latitude,
+            lon=x.Longitude,
+            # width=700,
+            height=750,
+            color=_return_single_data_selection(x, data_selection),
+            color_discrete_sequence=px.colors.qualitative.Plotly,
+            custom_data=[
+                x.Settlement,
+                x.SMP,
+                x.infra_uid,
+                x.school_uid,
+                x.scheme_uid,
+                x.disp_uid,
+                x.vill_2km_u,
+            ],
+            text=x["Settlement"],
+        )
 
     fig.update_layout(
         mapbox_style="mapbox://styles/faaizajaz/clo2vkv5j00i801r253694dj0",
@@ -66,6 +95,12 @@ def sidebar_data_update(selected_districts_df, data_selection):
     return fig, data_selection
 
 
+@callback(Output("report-selected-point", "children"), Input("main-map", "clickData"))
+def test(selected):
+    print(selected)
+    return html.Div(str(selected))
+
+
 def _calc_binary(row, data_selection):
     if data_selection is None or len(data_selection) == 0:
         return ""
@@ -74,13 +109,10 @@ def _calc_binary(row, data_selection):
 
     for selection in data_selection:
         if selection == "SFERP Infra":
-            # print(row["infra_uid"])
             if row["infra_uid"] is not None:
-                # bin_num = bin_num + 0b1000
                 data_selection_queue.append("1")
             else:
                 data_selection_queue.append("0")
-                # print(type(row["infra_uid"]))
 
         if selection == "SFERP Livelihood":
             if row["scheme_uid"] is not None:
@@ -90,7 +122,6 @@ def _calc_binary(row, data_selection):
 
         if selection == "Dispensaries":
             if row["disp_uid"] is not None:
-                # print(row["disp_uid"])
                 data_selection_queue.append("1")
             else:
                 data_selection_queue.append("0")
@@ -101,14 +132,8 @@ def _calc_binary(row, data_selection):
             else:
                 data_selection_queue.append("0")
 
-    # print(data_selection_queue)
     queue_string = "".join(data_selection_queue)
-    # print(queue_string)
-    # print(f"{bin_num:04b}")
-    # print(bin_num)
-    # print(queue_string)
-    # return fixed length 4 bit number
-    # return f"{bin_num:04b}"
+
     return queue_string
 
 
@@ -124,4 +149,20 @@ def _parse_binary(row, data_selection):
     if not result:
         return None
 
-    return " and ".join(result)
+    return " + ".join(result)
+
+
+def _return_single_data_selection(df, data_selection):
+    if data_selection[0] == "SFERP Infra":
+        return df.infra_uid
+    if data_selection[0] == "SFERP Livelihood":
+        return df.scheme_uid
+    if data_selection[0] == "Dispensaries":
+        return df.disp_uid
+    if data_selection[0] == "Schools":
+        return df.school_uid
+
+
+def _parse_uid_group(uid_group):
+    separated_group = uid_group.split("-")
+    return separated_group
