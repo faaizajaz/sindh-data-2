@@ -10,11 +10,6 @@ from dash.exceptions import PreventUpdate
 from utils.settings import MAPBOX_TOKEN
 
 convergence_df = pd.read_csv("./src/data/convergence.csv", low_memory=False)
-# dispensaries_df = pd.read_csv("./src/data/dispensaries.csv", low_memory=False)
-# infra_df = pd.read_csv("./src/data/infra-data.csv", low_memory=False)
-# schemes_df = pd.read_csv("./src/data/schemes-data.csv", low_memory=False)
-# schools_df = pd.read_csv("./src/data/schools-data.csv", low_memory=False)
-# settlements_df = pd.read_csv("./src/data/settlements-master-data.csv", low_memory=False)
 
 
 def serve_map():
@@ -46,15 +41,7 @@ def serve_map():
             xanchor="right",
             x=0.99,
             bgcolor="rgba(246, 246, 246, 1)",
-        )
-        # mapbox_layers=[
-        #     {
-        #         "below": "traces",
-        #         "color": "red",
-        #         "source": json.loads(gdf.geometry.to_json()),
-        #     }
-        # ]
-        # autosize=True,
+        ),
     )
 
     return html.Div(
@@ -76,11 +63,6 @@ def serve_map():
 
 @callback(
     [Output("selected-district-memory", "data")],
-    # Output("dispensaries-df-memory", "data"),
-    # Output("infra-df-memory", "data"),
-    # Output("schemes-df-memory", "data"),
-    # Output("schools-df-memory", "data"),
-    # Output("settlements-df-memory", "data"),
     Input("district-dropdown", "value"),
 )
 def set_districts_memory(selected_districts):
@@ -90,14 +72,7 @@ def set_districts_memory(selected_districts):
     for d in selected_districts:
         sd.append(d)
 
-    return (
-        [sd]
-        # dispensaries_df.to_dict("records"),
-        # infra_df.to_dict("records"),
-        # schemes_df.to_dict("records"),
-        # schools_df.to_dict("records"),
-        # settlements_df.to_dict("records"),
-    )
+    return [sd]
 
 
 @callback(

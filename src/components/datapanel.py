@@ -31,6 +31,8 @@ def serve_datapanel():
                 page_current=0,
                 page_size=5,
                 style_table={"overflowX": "auto"},
+                include_headers_on_copy_paste=True,
+                style_as_list_view=True,
             ),
             html.H5("SELECT Schools"),
             dash_table.DataTable(
@@ -38,6 +40,8 @@ def serve_datapanel():
                 page_current=0,
                 page_size=5,
                 style_table={"overflowX": "auto"},
+                include_headers_on_copy_paste=True,
+                style_as_list_view=True,
             ),
             html.H5("SFERP Schemes"),
             dash_table.DataTable(
@@ -45,6 +49,8 @@ def serve_datapanel():
                 page_current=0,
                 page_size=5,
                 style_table={"overflowX": "auto"},
+                include_headers_on_copy_paste=True,
+                style_as_list_view=True,
             ),
             html.H5("SHP Dispensaries"),
             dash_table.DataTable(
@@ -52,6 +58,8 @@ def serve_datapanel():
                 page_current=0,
                 page_size=5,
                 style_table={"overflowX": "auto"},
+                include_headers_on_copy_paste=True,
+                style_as_list_view=True,
             ),
             html.H5("Villages in 2km"),
             dash_table.DataTable(
@@ -59,7 +67,11 @@ def serve_datapanel():
                 page_current=0,
                 page_size=5,
                 style_table={"overflowX": "auto"},
+                include_headers_on_copy_paste=True,
+                style_as_list_view=True,
             ),
+            html.Button("Download All Data", id="btn_download_all"),
+            dcc.Download(id="download_all_data"),
         ],
     )
 
